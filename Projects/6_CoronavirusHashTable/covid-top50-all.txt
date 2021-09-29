@@ -1,0 +1,50 @@
+1210422	Los Angeles County , CA
+562308	Maricopa County , AZ
+557498	Cook County , IL
+504470	Miami-Dade County , FL
+403645	Harris County , TX
+306870	Dallas County , TX
+294595	San Bernardino County , CA
+293139	Riverside County , CA
+282834	San Diego County , CA
+276887	Kings County , NY
+273197	Queens County , NY
+263690	Tarrant County , TX
+262134	Clark County , NV
+256163	Orange County , CA
+247298	Broward County , FL
+227474	Bexar County , TX
+201602	Suffolk County , NY
+184182	Nassau County , NY
+177293	Bronx County , NY
+166192	Wayne County , MI
+154406	Salt Lake County , UT
+150368	Philadelphia County , PA
+149073	Palm Beach County , FL
+146166	Hillsborough County , FL
+144595	Orange County , FL
+139022	New York County , NY
+136740	El Paso County , TX
+135478	Middlesex County , MA
+129947	Westchester County , NY
+129289	Franklin County , OH
+125311	Hennepin County , MN
+119170	Santa Clara County , CA
+118859	Oakland County , MI
+117984	Pima County , AZ
+117958	Milwaukee County , WI
+116156	Cuyahoga County , OH
+114907	Mecklenburg County , NC
+112962	King County , WA
+108756	Sacramento County , CA
+105108	Bergen County , NJ
+103927	Marion County , IN
+103026	Duval County , FL
+102589	Fresno County , CA
+101962	Allegheny County , PA
+100573	Fairfield County , CT
+100274	Macomb County , MI
+99519	Providence County , RI
+99236	Utah County , UT
+99072	Shelby County , TN
+98020	Essex County , MA

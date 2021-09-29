@@ -1,0 +1,4000 @@
+King County,WA,1
+Cook County,IL,1
+Los Angeles County,CA,1
+Maricopa County,AZ,1
+Orange County,CA,1
+Santa Clara County,CA,1
+Santa Clara County,CA,1
+Cook County,IL,1
+Suffolk County,MA,1
+San Benito County,CA,2
+San Diego County,CA,1
+San Diego County,CA,1
+Santa Clara County,CA,1
+Humboldt County,CA,1
+Sacramento County,CA,1
+Santa Clara County,CA,1
+Santa Clara County,CA,1
+Santa Clara County,CA,2
+Sacramento County,CA,1
+Santa Clara County,CA,2
+King County,WA,5
+Santa Clara County,CA,4
+Snohomish County,WA,1
+Washington County,OR,1
+Cook County,IL,1
+King County,WA,3
+Providence County,RI,1
+Snohomish County,WA,1
+Cook County,IL,1
+Grafton County,NH,1
+Hillsborough County,FL,1
+King County,WA,5
+New York County,NY,1
+Placer County,CA,1
+Providence County,RI,1
+San Mateo County,CA,1
+Santa Clara County,CA,5
+Snohomish County,WA,2
+Sonoma County,CA,1
+Umatilla County,OR,1
+Washington County,OR,1
+Alameda County,CA,1
+Fulton County,GA,2
+Grafton County,NH,1
+King County,WA,7
+Norfolk County,MA,1
+San Mateo County,CA,1
+Santa Clara County,CA,2
+Snohomish County,WA,2
+Wake County,NC,1
+Westchester County,NY,1
+Contra Costa County,CA,1
+King County,WA,10
+Los Angeles County,CA,6
+Orange County,CA,2
+Placer County,CA,1
+Santa Clara County,CA,4
+Snohomish County,WA,2
+Westchester County,NY,9
+Bergen County,NJ,2
+Clark County,NV,1
+Cook County,IL,1
+Fort Bend County,TX,1
+Grant County,WA,1
+Harris County,TX,2
+King County,WA,20
+Kings County,NY,1
+Los Angeles County,CA,4
+Nassau County,NY,1
+New York County,NY,2
+San Diego County,CA,1
+San Francisco County,CA,2
+Santa Clara County,CA,7
+Santa Rosa County,FL,1
+Snohomish County,WA,10
+Westchester County,NY,8
+Williamson County,TN,1
+Charleston County,SC,1
+Chatham County,NC,1
+Contra Costa County,CA,2
+Delaware County,PA,1
+Denver County,CO,2
+Douglas County,NE,1
+Harris County,TX,1
+Kershaw County,SC,1
+King County,WA,7
+Los Angeles County,CA,2
+Maricopa County,AZ,1
+Marion County,IN,1
+Middlesex County,MA,1
+Montgomery County,MD,3
+New York County,NY,1
+Norfolk County,MA,1
+Placer County,CA,3
+Polk County,GA,1
+Ramsey County,MN,1
+Santa Clara County,CA,9
+Snohomish County,WA,1
+Suffolk County,MA,2
+Summit County,CO,1
+Washoe County,NV,1
+Wayne County,PA,1
+Westchester County,NY,1
+Yolo County,CA,1
+Alameda County,CA,1
+Bergen County,NJ,2
+Broward County,FL,2
+Clark County,WA,1
+Cobb County,GA,1
+Cook County,IL,1
+Davis County,UT,1
+Douglas County,CO,3
+El Paso County,CO,1
+Fort Bend County,TX,2
+Fulton County,GA,1
+Grand Princess Cruise Ship,CA,21
+Harris County,TX,2
+Honolulu County,HI,1
+Jackson County,OR,1
+Jefferson County,WA,1
+Kershaw County,SC,3
+King County,WA,13
+Kings County,NY,2
+Klamath County,OR,1
+Lee County,FL,2
+Los Angeles County,CA,1
+Madera County,CA,1
+Nassau County,NY,3
+New York County,NY,4
+Pierce County,WA,1
+Pinal County,AZ,2
+Providence County,RI,1
+Queens County,NY,1
+Rockland County,NY,2
+San Francisco County,CA,7
+Santa Clara County,CA,9
+Saratoga County,NY,2
+Snohomish County,WA,8
+Tulsa County,OK,1
+Washington County,OR,1
+Westchester County,NY,38
+Bennington County,VT,1
+Berkshire County,MA,1
+Bronx County,NY,1
+Clark County,NV,1
+Contra Costa County,CA,6
+Cook County,IL,1
+Davidson County,TN,1
+Douglas County,OR,1
+Fairfax County,VA,2
+Fort Bend County,TX,3
+Fresno County,CA,1
+Grafton County,NH,1
+Harford County,MD,1
+Hendricks County,IN,1
+Hudson County,NJ,1
+Jackson County,OR,1
+Johnson County,KS,1
+Kershaw County,SC,1
+King County,WA,12
+Kittitas County,WA,1
+Manatee County,FL,1
+Marion County,OR,1
+Middlesex County,MA,6
+Montgomery County,MD,1
+Montgomery County,PA,4
+Nassau County,NY,1
+Norfolk County,MA,4
+Okaloosa County,FL,1
+Pierce County,WA,3
+Riverside County,CA,1
+Rockingham County,NH,1
+Santa Clara County,CA,4
+Shelby County,TN,1
+Snohomish County,WA,4
+Spartanburg County,SC,1
+St. Louis County,MO,1
+Suffolk County,MA,5
+Suffolk County,NY,1
+Ulster County,NY,1
+Volusia County,FL,1
+Washington,DC,2
+Washington County,OR,5
+Washoe County,NV,1
+Westchester County,NY,26
+Adams County,IN,1
+Alameda County,CA,1
+Arapahoe County,CO,2
+Arlington County,VA,1
+Bergen County,NJ,3
+Berkshire County,MA,4
+Boone County,IN,1
+Bronx County,NY,1
+Broward County,FL,2
+Burlington County,NJ,2
+Camden County,NJ,1
+Charlotte County,FL,1
+Cherokee County,GA,1
+Cobb County,GA,3
+Collin County,TX,3
+Cook County,IL,4
+Cuyahoga County,OH,3
+Dane County,WI,2
+DeKalb County,GA,2
+Denver County,CO,1
+Douglas County,NE,3
+Eagle County,CO,2
+Fairfax County,VA,2
+Fairfield County,CT,1
+Fayette County,GA,1
+Floyd County,GA,1
+Fulton County,GA,2
+Graham County,AZ,1
+Gregg County,TX,1
+Gunnison County,CO,1
+Gwinnett County,GA,2
+Harris County,TX,1
+Harrison County,KY,2
+Hendricks County,IN,1
+Honolulu County,HI,1
+Jefferson County,KY,1
+Jefferson Parish,LA,1
+Johnson County,IA,7
+Kane County,IL,1
+Kershaw County,SC,2
+King County,WA,33
+Kings County,NY,1
+Kitsap County,WA,1
+Larimer County,CO,1
+Los Angeles County,CA,6
+Loudoun County,VA,1
+Manatee County,FL,1
+McHenry County,IL,1
+Middlesex County,MA,8
+Monmouth County,NJ,2
+Monroe County,PA,1
+Montgomery County,PA,4
+Nassau County,NY,14
+New York County,NY,3
+Noble County,IN,1
+Norfolk County,MA,4
+Orange County,CA,2
+Passaic County,NJ,1
+Pennington County,SD,1
+Philadelphia County,PA,1
+Pierce County,WI,1
+Pinal County,AZ,1
+Placer County,CA,2
+Pottawattamie County,IA,1
+Prince George's County,MD,3
+Queens County,NY,1
+Richmond County,NY,1
+Riverside County,CA,5
+Rockland County,NY,2
+Sacramento County,CA,8
+San Francisco County,CA,6
+San Mateo County,CA,7
+Santa Clara County,CA,17
+Santa Cruz County,CA,2
+Shasta County,CA,1
+Snohomish County,WA,6
+Solano County,CA,3
+Sonoma County,CA,2
+Suffolk County,MA,2
+Tulsa County,OK,1
+Union County,NJ,1
+Ventura County,CA,1
+Volusia County,FL,1
+Wake County,NC,5
+Washington,DC,2
+Weber County,UT,1
+Westchester County,NY,15
+Worcester County,MA,1
+Alachua County,FL,1
+Anoka County,MN,1
+Beadle County,SD,1
+Berkshire County,MA,2
+Bronx County,NY,1
+Bucks County,PA,2
+Charles Mix County,SD,1
+Clark County,NV,3
+Clay County,FL,1
+Cobb County,GA,2
+Collier County,FL,3
+Contra Costa County,CA,1
+Cook County,IL,6
+Dallas County,TX,2
+Davison County,SD,1
+Denver County,CO,2
+Duval County,FL,1
+Eagle County,CO,1
+Essex County,MA,1
+Harris County,TX,1
+Harrison County,KY,1
+Howard County,IN,1
+Jefferson County,CO,1
+Johnson County,IA,6
+Johnson County,IN,3
+Kershaw County,SC,1
+King County,WA,74
+Kings County,NY,6
+Kitsap County,WA,1
+Knox County,NE,1
+Litchfield County,CT,1
+Middlesex County,MA,26
+Minnehaha County,SD,1
+Montgomery County,MD,1
+Montgomery County,TX,1
+Multnomah County,OR,1
+Nassau County,FL,1
+New York County,NY,6
+Norfolk County,MA,12
+Oakland County,MI,1
+Orleans Parish,LA,4
+Pasco County,FL,1
+Pierce County,WA,10
+Pinellas County,FL,2
+Queens County,NY,2
+Richmond County,NY,1
+Riverside County,CA,2
+Rockingham County,NH,1
+Rockland County,NY,2
+San Mateo County,CA,6
+Santa Clara County,CA,15
+Seminole County,FL,1
+Skagit County,WA,1
+Snohomish County,WA,17
+Solano County,CA,3
+Suffolk County,MA,10
+Sullivan County,TN,1
+Tarrant County,TX,1
+Wake County,NC,1
+Wayne County,MI,1
+Westchester County,NY,10
+Williamson County,TN,3
+Alameda County,CA,1
+Arapahoe County,CO,1
+Baltimore County,MD,1
+Bartow County,GA,3
+Bernalillo County,NM,1
+Broward County,FL,3
+Caddo Parish,LA,1
+Charlton County,GA,1
+Cobb County,GA,2
+Cook County,IL,5
+DeKalb County,GA,2
+Denver County,CO,1
+Deschutes County,OR,1
+Douglas County,NE,5
+Durham County,NC,1
+Eagle County,CO,1
+Fairfield County,CT,1
+Forsyth County,NC,2
+Fulton County,GA,1
+Gordon County,GA,2
+Gunnison County,CO,1
+Harrison County,KY,2
+Hillsborough County,FL,1
+Island County,WA,2
+Jefferson County,AR,1
+Jefferson County,CO,2
+Johnston County,NC,1
+King County,WA,44
+Kings County,NY,4
+Lancaster County,SC,2
+Lee County,FL,1
+Lee County,GA,1
+Los Angeles County,CA,9
+Lowndes County,GA,1
+Maricopa County,AZ,1
+Marion County,OR,1
+Mecklenburg County,NC,2
+Middlesex County,MA,3
+Minnehaha County,SD,2
+Montgomery County,MD,1
+Montgomery County,PA,5
+Nassau County,NY,9
+New York County,NY,1
+Norfolk County,MA,1
+Onslow County,NC,1
+Orange County,CA,1
+Orleans Parish,LA,6
+Pierce County,WA,3
+Pima County,AZ,1
+Pinal County,AZ,2
+Polk County,OR,1
+Prince George's County,MD,1
+Ramsey County,MN,1
+Richmond County,NY,2
+San Francisco County,CA,3
+Santa Clara County,CA,26
+Santa Fe County,NM,1
+Sarasota County,FL,1
+Snohomish County,WA,14
+Socorro County,NM,1
+Stark County,OH,1
+Suffolk County,NY,5
+Umatilla County,OR,1
+Ventura County,CA,1
+Wake County,NC,1
+Washington,DC,6
+Westchester County,NY,13
+Whatcom County,WA,1
+Williamson County,TN,1
+Adams County,CO,2
+Albany County,NY,1
+Androscoggin County,ME,1
+Bergen County,NJ,6
+Berkshire County,MA,2
+Bernalillo County,NM,1
+Bon Homme County,SD,1
+Bronx County,NY,7
+Broome County,NY,1
+Broward County,FL,4
+Carroll County,IA,1
+Carson City,NV,1
+Carver County,MN,1
+Cass County,NE,1
+Cherokee County,GA,1
+Chittenden County,VT,1
+Clackamas County,OR,1
+Clark County,NV,3
+Cook County,IL,5
+Dakota County,MN,1
+Dallas County,TX,1
+Davidson County,TN,5
+DeKalb County,GA,1
+Delaware County,NY,1
+Denver County,CO,4
+Dutchess County,NY,1
+Eagle County,CO,7
+Essex County,MA,1
+Essex County,NJ,1
+Fairfield County,CT,2
+Fayette County,GA,3
+Fayette County,KY,2
+Fond du Lac County,WI,2
+Forrest County,MS,1
+Fulton County,GA,2
+Grays Harbor County,WA,1
+Greene County,MO,1
+Gunnison County,CO,1
+Harris County,TX,1
+Harrison County,KY,1
+Hennepin County,MN,1
+Herkimer County,NY,1
+Ingham County,MI,1
+Island County,WA,1
+Jackson County,OK,1
+Jefferson County,CO,1
+Jefferson County,KY,1
+Jefferson Parish,LA,1
+Johnson County,IA,1
+Johnson County,KS,3
+Kane County,IL,1
+Kent County,MI,3
+Kershaw County,SC,1
+King County,WA,36
+Kings County,NY,10
+Kittitas County,WA,2
+Lake County,IL,1
+Lee County,FL,1
+Linn County,OR,2
+Marion County,IN,1
+McHenry County,IL,1
+Miami-Dade County,FL,2
+Middlesex County,MA,5
+Middlesex County,NJ,2
+Monmouth County,NJ,3
+Monroe County,NY,1
+Monroe County,PA,1
+Montcalm County,MI,1
+Morris County,NJ,1
+Municipality of Anchorage,AK,1
+Nassau County,NY,13
+New Castle County,DE,4
+New York County,NY,21
+Norfolk County,MA,1
+Northampton County,PA,1
+Oakland County,MI,2
+Olmsted County,MN,1
+Orange County,NY,1
+Orleans Parish,LA,5
+Palm Beach County,FL,2
+Pike County,PA,1
+Pitkin County,CO,10
+Pulaski County,AR,1
+Queens County,NY,13
+Ramsey County,MN,1
+Richmond County,NY,1
+Rockingham County,NH,1
+Rockland County,NY,1
+Saline County,AR,1
+Salt Lake County,UT,2
+Santa Clara County,CA,23
+Santa Fe County,NM,1
+Saratoga County,NY,1
+Shelby County,TN,1
+Sheridan County,WY,1
+Skagit County,WA,1
+Snohomish County,WA,40
+Somerset County,NJ,1
+St. Clair County,MI,1
+St. Joseph County,IN,1
+Stanislaus County,CA,2
+Stearns County,MN,1
+Suffolk County,MA,2
+Suffolk County,NY,14
+Summit County,UT,1
+Thurston County,WA,1
+Trumbull County,OH,1
+Tulare County,CA,1
+Ulster County,NY,3
+Volusia County,FL,1
+Ward County,ND,1
+Washington County,OR,2
+Washtenaw County,MI,2
+Waukesha County,WI,1
+Westchester County,NY,27
+Williamson County,TN,3
+Wyandotte County,KS,1
+Adams County,CO,1
+Alameda County,CA,3
+Albany County,NY,1
+Alexandria City,VA,1
+Anne Arundel County,MD,1
+Arapahoe County,CO,4
+Arlington County,VA,2
+Baltimore County,MD,1
+Bay County,MI,1
+Bell County,TX,1
+Belmont County,OH,2
+Bergen County,NJ,4
+Bernalillo County,NM,4
+Broadwater County,MT,1
+Bronx County,NY,3
+Broward County,FL,9
+Bucks County,PA,1
+Burlington County,NJ,1
+Butler County,KS,1
+Butler County,OH,1
+Cabarrus County,NC,1
+Calaveras County,CA,2
+Charles County,MD,1
+Charlevoix County,MI,1
+Chester County,PA,1
+Clark County,NV,8
+Collin County,TX,2
+Columbia County,WA,1
+Contra Costa County,CA,15
+Cook County,IL,13
+Copiah County,MS,1
+Cumberland County,ME,1
+Cumberland County,PA,3
+Cuyahoga County,OH,3
+Dallas County,TX,4
+Dane County,WI,3
+Delaware County,PA,5
+Denver County,CO,5
+Douglas County,CO,1
+Douglas County,NE,2
+Dutchess County,NY,2
+Eagle County,CO,5
+El Paso County,CO,1
+Elmore County,AL,1
+Essex County,NJ,4
+Fairfax County,VA,2
+Fairfield County,CT,1
+Fayette County,KY,1
+Fond du Lac County,WI,4
+Forrest County,MS,2
+Fremont County,WY,1
+Gallatin County,MT,1
+Gunnison County,CO,1
+Hanover County,VA,1
+Harris County,TX,1
+Harrison County,IA,1
+Harrisonburg City,VA,1
+Hennepin County,MN,2
+Henry County,MO,1
+Hudson County,NJ,2
+James City County,VA,7
+Jefferson County,AL,1
+Jefferson County,CO,3
+Jefferson County,KY,1
+Jefferson Parish,LA,1
+King County,WA,58
+Kitsap County,WA,1
+Knox County,TN,1
+Lake County,IL,1
+Leflore County,MS,1
+Limestone County,AL,1
+Linn County,OR,6
+Litchfield County,CT,2
+Los Angeles County,CA,11
+Loudoun County,VA,2
+Macomb County,MI,1
+Manatee County,FL,2
+McCook County,SD,1
+Miami-Dade County,FL,6
+Middlesex County,MA,11
+Middlesex County,NJ,1
+Milwaukee County,WI,2
+Monmouth County,NJ,2
+Monroe County,PA,1
+Montgomery County,AL,1
+Montgomery County,KY,1
+Montgomery County,PA,5
+Montgomery County,TX,2
+Morris County,NJ,2
+Nassau County,NY,10
+New York City Unallocated/Probable,NY,51
+New York County,NY,9
+Oakland County,MI,3
+Ocean County,NJ,1
+Oklahoma County,OK,1
+Orange County,CA,7
+Orange County,FL,1
+Orange County,NY,2
+Orleans Parish,LA,11
+Osceola County,FL,1
+Palm Beach County,FL,3
+Passaic County,NJ,1
+Pearl River County,MS,1
+Philadelphia County,PA,2
+Pierce County,WA,2
+Prince Edward County,VA,1
+Prince George's County,MD,2
+Prince William County,VA,2
+Providence County,RI,1
+Pueblo County,CO,1
+Queens County,NY,9
+Racine County,WI,1
+Rockland County,NY,2
+Routt County,CO,1
+Sacramento County,CA,7
+Salt Lake County,UT,1
+San Benito County,CA,1
+San Diego County,CA,5
+San Francisco County,CA,5
+San Joaquin County,CA,3
+San Mateo County,CA,5
+Santa Clara County,CA,46
+Santa Cruz County,CA,5
+Santa Fe County,NM,1
+Schenectady County,NY,1
+Sheboygan County,WI,3
+Silver Bow County,MT,1
+Skagit County,WA,1
+Smith County,TX,3
+Snohomish County,WA,25
+St. Charles Parish,LA,1
+St. Louis County,MO,1
+St. Tammany Parish,LA,2
+Stark County,OH,1
+Suffolk County,MA,4
+Suffolk County,NY,8
+Summit County,OH,1
+Terrebonne Parish,LA,1
+Travis County,TX,1
+Tulare County,CA,1
+Tuscaloosa County,AL,1
+Ulster County,NY,1
+Ventura County,CA,1
+Virginia Beach City,VA,2
+Volusia County,FL,1
+Washington County,PA,1
+Washington County,RI,2
+Washoe County,NV,1
+Washtenaw County,MI,1
+Wayne County,MI,5
+Weld County,CO,2
+Westchester County,NY,10
+Worcester County,MA,1
+Wright County,MN,1
+Yakima County,WA,2
+Yellowstone County,MT,1
+Yolo County,CA,1
+Ada County,ID,2
+Adams County,CO,2
+Albany County,NY,3
+Allegheny County,PA,2
+Anoka County,MN,1
+Arapahoe County,CO,3
+Baldwin County,AL,1
+Baltimore City,MD,1
+Baltimore County,MD,1
+Barnstable County,MA,1
+Bartow County,GA,4
+Beaufort County,SC,3
+Bergen County,NJ,11
+Bexar County,TX,1
+Bossier Parish,LA,1
+Brazoria County,TX,2
+Bristol County,MA,1
+Broward County,FL,16
+Brunswick County,NC,1
+Butler County,OH,3
+Camden County,NJ,1
+Campbell County,TN,1
+Carroll County,MD,1
+Cherokee County,GA,3
+Chester County,PA,1
+Chesterfield County,VA,1
+Citrus County,FL,1
+Clark County,WA,2
+Cobb County,GA,7
+Collier County,FL,2
+Contra Costa County,CA,4
+Cook County,IL,11
+Copiah County,MS,1
+Coweta County,GA,2
+Craven County,NC,1
+Cuyahoga County,OH,5
+Dakota County,MN,1
+Dallas County,IA,1
+Dallas County,TX,1
+Dane County,WI,1
+Davidson County,TN,8
+Davis County,UT,1
+DeKalb County,GA,3
+Denver County,CO,6
+Deschutes County,OR,2
+Douglas County,NE,5
+DuPage County,IL,1
+Dutchess County,NY,1
+Duval County,FL,3
+Eagle County,CO,4
+El Paso County,CO,1
+El Paso County,TX,1
+Erie County,NY,3
+Essex County,MA,3
+Essex County,NJ,2
+Fairfax County,VA,4
+Fairfield County,CT,10
+Floyd County,GA,2
+Fort Bend County,TX,3
+Franklin County,OH,1
+Fresno County,CA,1
+Fulton County,GA,5
+Galveston County,TX,1
+Grant County,WA,1
+Greene County,MO,1
+Gunnison County,CO,2
+Hamilton County,IN,1
+Hamilton County,TN,1
+Harford County,MD,1
+Harnett County,NC,2
+Harris County,TX,1
+Hartford County,CT,1
+Hays County,TX,1
+Hennepin County,MN,3
+Henry County,GA,1
+Hillsborough County,FL,2
+Hinds County,MS,2
+Hudson County,NJ,2
+Island County,WA,3
+James City County,VA,1
+Jefferson County,AL,4
+Jefferson County,AR,3
+Jefferson County,CO,2
+Jefferson County,KY,1
+Jefferson County,TN,1
+Jefferson Parish,LA,9
+Johnston County,NC,1
+Kane County,IL,1
+Kauai County,HI,1
+Kershaw County,SC,2
+King County,WA,59
+Kings County,NY,10
+Lake County,IL,1
+LaPorte County,IN,1
+Lavaca County,TX,1
+Lee County,FL,1
+Lexington County,SC,1
+Linn County,OR,1
+Lorain County,OH,1
+Los Angeles County,CA,13
+Loudoun County,VA,2
+Macomb County,MI,1
+Maricopa County,AZ,1
+Marion County,IN,4
+Mecklenburg County,NC,2
+Mercer County,NJ,1
+Mesa County,CO,1
+Miami-Dade County,FL,5
+Middlesex County,MA,5
+Middlesex County,NJ,7
+Milwaukee County,WI,4
+Missoula County,MT,2
+Monmouth County,NJ,1
+Monroe County,MI,1
+Monroe County,NY,1
+Montgomery County,MD,6
+Montgomery County,PA,2
+Nassau County,NY,28
+Nelson County,KY,1
+New Castle County,DE,2
+New Haven County,CT,1
+New York City Unallocated/Probable,NY,-51
+New York County,NY,23
+Norfolk County,MA,4
+Oakland County,MI,3
+Orange County,CA,1
+Orange County,FL,1
+Orange County,NY,3
+Orleans Parish,LA,39
+Pasco County,FL,1
+Pearl River County,MS,1
+Philadelphia County,PA,1
+Pierce County,WA,7
+Pima County,AZ,1
+Pitkin County,CO,1
+Placer County,CA,1
+Prince George's County,MD,3
+Queens County,NY,29
+Ramsey County,MN,1
+Renville County,MN,1
+Richmond County,NY,5
+Rockingham County,NH,1
+Rockland County,NY,3
+Rutherford County,TN,1
+Sacramento County,CA,12
+Salt Lake County,UT,11
+San Francisco County,CA,5
+San Joaquin County,CA,5
+San Mateo County,CA,12
+Sandoval County,NM,2
+Santa Clara County,CA,43
+Sheridan County,WY,1
+Skagit County,WA,1
+Snohomish County,WA,21
+Socorro County,NM,1
+Spokane County,WA,3
+Spotsylvania County,VA,1
+St. Charles Parish,LA,1
+St. Clair County,IL,2
+St. John the Baptist Parish,LA,1
+Stark County,OH,1
+Stearns County,MN,2
+Suffolk County,MA,1
+Suffolk County,NY,13
+Summit County,OH,1
+Summit County,UT,1
+Tarrant County,TX,2
+Teton County,ID,1
+Thurston County,WA,2
+Tioga County,NY,1
+Tompkins County,NY,1
+Tuscaloosa County,AL,1
+Ventura County,CA,1
+Virginia Beach City,VA,1
+Wake County,NC,6
+Washington,DC,6
+Washington County,OR,3
+Washington County,VT,1
+Washoe County,NV,1
+Washtenaw County,MI,1
+Watauga County,NC,1
+Waukesha County,WI,2
+Wayne County,MI,2
+Wayne County,NC,1
+Weld County,CO,1
+Wells County,IN,1
+Westchester County,NY,20
+Whatcom County,WA,1
+Williamson County,TN,2
+Windsor County,VT,1
+Winnebago County,WI,1
+Woodford County,IL,1
+Yakima County,WA,2
+Alameda County,CA,8
+Albany County,NY,3
+Alexandria City,VA,1
+Allegheny County,PA,3
+Anderson County,SC,2
+Arapahoe County,CO,5
+Bartow County,GA,2
+Bergen County,NJ,1
+Bexar County,TX,2
+Boulder County,CO,3
+Bourbon County,KY,1
+Bronx County,NY,8
+Bucks County,PA,1
+Burlington County,NJ,1
+Butler County,OH,2
+Caddo Parish,LA,1
+Champaign County,IL,1
+Clark County,KY,1
+Clarke County,GA,2
+Clay County,FL,2
+Clayton County,GA,2
+Clear Creek County,CO,1
+Cleveland County,OK,1
+Clinton County,IL,1
+Cobb County,GA,4
+Collin County,TX,1
+Cumberland County,PA,2
+Cuyahoga County,OH,3
+Dallas County,TX,3
+Davidson County,TN,3
+Davis County,UT,1
+DeKalb County,GA,2
+Delaware County,PA,1
+Denver County,CO,4
+Deschutes County,OR,1
+Dougherty County,GA,6
+Douglas County,CO,4
+Dutchess County,NY,3
+Eagle County,CO,4
+El Paso County,CO,1
+Essex County,MA,1
+Essex County,NJ,4
+Fairfield County,CT,1
+Fayette County,GA,1
+Fayette County,KY,2
+Floyd County,GA,1
+Fond du Lac County,WI,5
+Franklin County,KS,1
+Franklin County,OH,2
+Fulton County,GA,7
+Garfield County,CO,1
+Garland County,AR,1
+Greene County,NY,2
+Greenville County,SC,1
+Gunnison County,CO,2
+Gwinnett County,GA,2
+Hartford County,CT,2
+Hillsborough County,NH,1
+Honolulu County,HI,2
+Horry County,SC,3
+Hudson County,NJ,6
+Jefferson County,AL,7
+Jefferson County,CO,3
+Jefferson County,KY,2
+Jefferson County,WA,2
+Jefferson Parish,LA,2
+Johnson County,KS,1
+Kay County,OK,1
+Kent County,MI,2
+Kershaw County,SC,3
+King County,WA,33
+Kings County,NY,19
+Lafourche Parish,LA,1
+Lee County,AL,1
+Lee County,GA,1
+Lehigh County,PA,1
+Lincoln County,WA,1
+Linn County,OR,1
+Litchfield County,CT,1
+Lorain County,OH,1
+Los Angeles County,CA,16
+Lowndes County,GA,1
+Lucas County,OH,1
+Luzerne County,PA,1
+Macomb County,MI,3
+Marin County,CA,4
+Matagorda County,TX,1
+Maui County,HI,1
+Medina County,OH,1
+Middlesex County,MA,10
+Middlesex County,NJ,2
+Milwaukee County,WI,1
+Monmouth County,NJ,4
+Monroe County,PA,3
+Montgomery County,NY,1
+Montgomery County,PA,4
+Morris County,NJ,1
+Nassau County,NY,19
+New Castle County,DE,1
+New Haven County,CT,2
+New York City Unallocated/Probable,NY,89
+New York County,NY,1
+Newton County,GA,1
+Norfolk County,MA,3
+Oakland County,MI,5
+Ocean County,NJ,1
+Orange County,CA,3
+Orleans Parish,LA,9
+Ottawa County,MI,1
+Passaic County,NJ,3
+Payne County,OK,1
+Philadelphia County,PA,2
+Pierce County,WA,3
+Plymouth County,MA,1
+Prince William County,VA,1
+Putnam County,NY,2
+Queens County,NY,23
+Richmond County,NY,6
+Riverside County,CA,6
+Rockingham County,NH,5
+Rockland County,NY,1
+Sacramento County,CA,3
+San Bernardino County,CA,1
+San Diego County,CA,31
+San Francisco County,CA,9
+Sangamon County,IL,1
+Santa Barbara County,CA,1
+Santa Clara County,CA,32
+Schenectady County,NY,1
+Shelby County,AL,2
+Snohomish County,WA,22
+Solano County,CA,1
+Sonoma County,CA,2
+St. Bernard Parish,LA,1
+St. Charles Parish,LA,1
+St. Clair County,MI,1
+St. Johns County,FL,1
+St. Tammany Parish,LA,2
+Suffolk County,MA,4
+Suffolk County,NY,6
+Terrebonne Parish,LA,1
+Trumbull County,OH,1
+Tulsa County,OK,1
+Tuscaloosa County,AL,1
+Tuscarawas County,OH,1
+Union County,NJ,3
+Virginia Beach City,VA,1
+Volusia County,FL,1
+Waseca County,MN,1
+Washington,DC,1
+Washington County,MN,1
+Washington County,UT,1
+Washoe County,NV,5
+Washtenaw County,MI,3
+Wayne County,MI,5
+Weld County,CO,2
+Westchester County,NY,18
+Whatcom County,WA,1
+Whiteside County,IL,1
+Williamson County,TN,4
+Wilson County,NC,1
+Winnebago County,IL,1
+Worcester County,MA,4
+Yamhill County,OR,1
+Alachua County,FL,1
+Alameda County,CA,3
+Albany County,NY,4
+Allamakee County,IA,2
+Allegany County,NY,2
+Amador County,CA,1
+Anoka County,MN,1
+Ascension Parish,LA,1
+Baltimore County,MD,1
+Bartholomew County,IN,1
+Bennington County,VT,1
+Benton County,MN,1
+Benton County,OR,2
+Bergen County,NJ,32
+Berkshire County,MA,2
+Bernalillo County,NM,8
+Blue Earth County,MN,1
+Bristol County,MA,1
+Bronx County,NY,13
+Broward County,FL,3
+Bucks County,PA,1
+Burlington County,NJ,1
+Caddo Parish,LA,1
+Camden County,NJ,1
+Canadian County,OK,1
+Carroll County,NH,1
+Chelan County,WA,2
+Cherokee County,GA,2
+Chesterfield County,VA,1
+Chittenden County,VT,2
+City of St. Louis,MO,1
+Clackamas County,OR,1
+Clark County,NV,19
+Clark County,WA,1
+Clarke County,GA,1
+Clayton County,GA,2
+Cleburne County,AR,1
+Cleveland County,AR,1
+Cobb County,GA,3
+Collier County,FL,1
+Contra Costa County,CA,5
+Cook County,IL,26
+Cumberland County,ME,12
+Cuyahoga County,OH,10
+Dakota County,MN,1
+Dallas County,IA,1
+Dane County,WI,4
+Davidson County,TN,8
+Davis County,UT,1
+Deschutes County,OR,2
+Desha County,AR,1
+DuPage County,IL,4
+Dutchess County,NY,3
+Duval County,FL,1
+Erie County,NY,3
+Escambia County,FL,1
+Essex County,MA,2
+Essex County,NJ,9
+Fairbanks North Star Borough,AK,2
+Fairfield County,CT,13
+Floyd County,IN,1
+Forsyth County,GA,1
+Franklin County,IN,2
+Fremont County,WY,7
+Fulton County,GA,7
+Geauga County,OH,1
+Grafton County,NH,2
+Grant County,WA,1
+Greene County,MO,1
+Gwinnett County,GA,1
+Hall County,GA,1
+Hampden County,MA,1
+Hancock County,MS,1
+Harnett County,NC,1
+Hartford County,CT,1
+Hendricks County,IN,1
+Hennepin County,MN,16
+Henry County,GA,1
+Hillsborough County,FL,1
+Honolulu County,HI,2
+Howard County,IN,1
+Howard County,MD,1
+Hudson County,NJ,8
+Hunterdon County,NJ,1
+Iredell County,NC,1
+Island County,WA,1
+James City County,VA,2
+Jefferson County,AL,5
+Jefferson County,AR,1
+Jefferson County,KY,1
+Jefferson Parish,LA,7
+Johnson County,IA,1
+Johnson County,KS,5
+Kershaw County,SC,4
+King County,WA,68
+Kings County,NY,9
+Kitsap County,WA,4
+Lafourche Parish,LA,1
+Lake County,FL,1
+Lake County,IL,2
+Lake County,IN,2
+Lewis County,WA,1
+Lexington County,SC,1
+Lincoln County,AR,1
+Lincoln County,ME,2
+Lorain County,OH,1
+Los Angeles County,CA,25
+Lowndes County,GA,1
+Macomb County,MI,1
+Manatee County,FL,2
+Maricopa County,AZ,4
+Marin County,CA,5
+Marion County,IN,3
+Marion County,OR,1
+Maui County,HI,1
+Mecklenburg County,NC,3
+Medina County,OH,1
+Mercer County,NJ,5
+Miami-Dade County,FL,10
+Middlesex County,MA,8
+Middlesex County,NJ,5
+Milwaukee County,WI,6
+Minnehaha County,SD,1
+Missoula County,MT,1
+Monmouth County,NJ,2
+Monroe County,MS,1
+Monroe County,NY,8
+Monroe County,PA,1
+Montgomery County,AL,1
+Montgomery County,MD,3
+Montgomery County,PA,6
+Morris County,NJ,2
+Multnomah County,OR,1
+Nassau County,NY,11
+Nevada County,CA,1
+New Castle County,DE,1
+New Haven County,CT,1
+New York City Unallocated/Probable,NY,30
+New York County,NY,39
+Norfolk County,MA,5
+Ocean County,NJ,1
+Oklahoma County,OK,1
+Olmsted County,MN,2
+Onondaga County,NY,1
+Ontario County,NY,1
+Orange County,CA,5
+Orange County,FL,1
+Orange County,NY,5
+Orange County,VT,1
+Orleans Parish,LA,20
+Osceola County,FL,3
+Outagamie County,WI,1
+Palm Beach County,FL,3
+Passaic County,NJ,3
+Paulding County,GA,1
+Peoria County,IL,1
+Philadelphia County,PA,2
+Pierce County,WA,9
+Pima County,AZ,2
+Pinellas County,FL,2
+Plymouth County,MA,2
+Polk County,IA,1
+Prince George's County,MD,1
+Pulaski County,AR,4
+Queens County,NY,40
+Ramsey County,MN,2
+Richmond County,NY,3
+Riverside County,CA,1
+Rockingham County,NH,1
+Rockland County,NY,3
+Sacramento County,CA,1
+Salt Lake County,UT,2
+Sampson County,NC,1
+San Bernardino County,CA,1
+San Diego County,CA,14
+San Francisco County,CA,3
+San Joaquin County,CA,1
+San Luis Obispo County,CA,3
+San Mateo County,CA,9
+Sangamon County,IL,2
+Santa Clara County,CA,35
+Santa Cruz County,CA,2
+Sarasota County,FL,2
+Saratoga County,NY,2
+Schenectady County,NY,2
+Seminole County,FL,3
+Sevier County,TN,1
+Shelby County,AL,1
+Skagit County,WA,3
+Snohomish County,WA,24
+Solano County,CA,1
+Somerset County,NJ,4
+Sonoma County,CA,1
+St. Bernard Parish,LA,1
+St. Johns County,FL,1
+St. Tammany Parish,LA,2
+Stafford County,VA,1
+Stanislaus County,CA,1
+Suffolk County,MA,5
+Suffolk County,NY,16
+Summit County,UT,2
+Talbot County,MD,1
+Thurston County,WA,1
+Tooele County,UT,1
+Travis County,TX,1
+Troup County,GA,1
+Tulare County,CA,1
+Ulster County,NY,2
+Union County,NJ,4
+Volusia County,FL,2
+Wake County,NC,1
+Wasatch County,UT,1
+Washington,DC,5
+Washington County,OR,1
+Wayne County,MI,1
+Westchester County,NY,24
+Will County,IL,1
+Williamson County,TN,4
+Winnebago County,WI,2
+Wood County,WI,1
+Yellowstone County,MT,1
+York County,VA,1
+Ada County,ID,1
+Adair County,IA,1
+Adams County,CO,3
+Alachua County,FL,4
+Alameda County,CA,9
+Albany County,NY,11
+Allegheny County,PA,2
+Androscoggin County,ME,2
+Anne Arundel County,MD,2
+Arapahoe County,CO,3
+Arlington County,VA,10
+Baltimore County,MD,2
+Barnstable County,MA,1
+Barrow County,GA,1
+Bartow County,GA,1
+Beaufort County,SC,1
+Beaver County,PA,1
+Bennington County,VT,1
+Bergen County,NJ,23
+Berkshire County,MA,3
+Black Hawk County,IA,1
+Boulder County,CO,5
+Box Elder County,UT,1
+Brevard County,FL,1
+Bristol County,MA,3
+Bronx County,NY,62
+Broward County,FL,16
+Bucks County,PA,3
+Burleigh County,ND,2
+Caddo Parish,LA,1
+Calhoun County,SC,1
+Canadian County,OK,1
+Cass County,ND,1
+Charleston County,SC,2
+Charlottesville City,VA,1
+Chester County,PA,2
+Chesterfield County,VA,2
+Chittenden County,VT,2
+Citrus County,FL,1
+Clackamas County,OR,4
+Clark County,NV,7
+Clay County,FL,1
+Clear Creek County,CO,1
+Clinton County,IL,1
+Clinton County,NY,1
+Cobb County,GA,3
+Collier County,FL,1
+Columbia County,GA,1
+Contra Costa County,CA,5
+Cook County,IL,30
+Coshocton County,OH,2
+Coweta County,GA,1
+Cumberland County,ME,7
+Cumberland County,PA,5
+Cuyahoga County,OH,7
+Dakota County,MN,3
+Dallas County,IA,1
+Dane County,WI,9
+Darke County,OH,1
+Davidson County,TN,17
+DeKalb County,GA,5
+Delaware County,PA,2
+Denton County,TX,7
+Denver County,CO,13
+Douglas County,CO,2
+Douglas County,KS,1
+Douglas County,NE,3
+DuPage County,IL,21
+Dutchess County,NY,6
+Duval County,FL,5
+Eagle County,CO,10
+El Paso County,CO,2
+El Paso County,TX,2
+Elmore County,AL,1
+Erie County,NY,1
+Essex County,NJ,12
+Fairbanks North Star Borough,AK,1
+Fairfax County,VA,2
+Fairfield County,CT,19
+Fairfield County,SC,1
+Floyd County,GA,2
+Franklin County,OH,1
+Frederick County,MD,1
+Fulton County,GA,6
+Garfield County,CO,1
+Gloucester County,NJ,2
+Goochland County,VA,1
+Grafton County,NH,2
+Grant County,WA,4
+Greenville County,SC,1
+Gunnison County,CO,3
+Gwinnett County,GA,2
+Harrison County,MS,1
+Hartford County,CT,3
+Hawaii County,HI,1
+Hennepin County,MN,2
+Henrico County,VA,2
+Hillsborough County,FL,4
+Hillsborough County,NH,3
+Hinds County,MS,4
+Honolulu County,HI,2
+Horry County,SC,1
+Howard County,MD,2
+Hudson County,NJ,5
+Hunterdon County,NJ,3
+Imperial County,CA,2
+Ingham County,MI,1
+Island County,WA,7
+Jackson County,MI,1
+Jackson County,MS,1
+James City County,VA,2
+Jefferson County,AL,4
+Jefferson County,CO,5
+Jefferson County,WV,1
+Jefferson Parish,LA,14
+Johnson County,IA,3
+Kay County,OK,1
+Kennebec County,ME,1
+Kenosha County,WI,4
+Kent County,DE,1
+Kershaw County,SC,4
+Ketchikan Gateway Borough,AK,1
+King County,WA,74
+Kings County,NY,95
+Klickitat County,WA,1
+Knox County,NE,1
+Knox County,TN,1
+Lake County,IL,2
+Lake County,OH,1
+Laramie County,WY,2
+Larimer County,CO,1
+Lee County,AL,2
+Lee County,FL,2
+Leelanau County,MI,1
+Leflore County,MS,3
+Lexington County,SC,1
+Lincoln County,NE,1
+Linn County,OR,5
+Litchfield County,CT,1
+Lorain County,OH,1
+Los Angeles County,CA,50
+Lowndes County,GA,1
+Lyon County,KY,1
+Macomb County,MI,2
+Madison County,AL,1
+Madison County,ID,1
+Mahoning County,OH,1
+Manatee County,FL,1
+Maricopa County,AZ,1
+Marin County,CA,6
+Marion County,OR,1
+Medina County,OH,1
+Mercer County,NJ,3
+Miami-Dade County,FL,20
+Middlesex County,MA,6
+Middlesex County,NJ,5
+Milwaukee County,WI,11
+Minnehaha County,SD,1
+Monmouth County,NJ,8
+Montgomery County,MD,9
+Montgomery County,PA,2
+Morris County,NJ,1
+Multnomah County,OR,1
+Municipality of Anchorage,AK,1
+Nassau County,NY,22
+Navajo County,AZ,1
+New Castle County,DE,7
+New Haven County,CT,4
+New York City Unallocated/Probable,NY,-119
+New York County,NY,166
+Norfolk County,MA,7
+Oakland County,MI,2
+Ocean County,NJ,1
+Okaloosa County,FL,1
+Oklahoma County,OK,4
+Onondaga County,NY,1
+Orange County,CA,7
+Orange County,FL,3
+Orange County,NY,4
+Orange County,VT,1
+Orleans Parish,LA,42
+Osceola County,FL,3
+Otsego County,MI,1
+Oxford County,ME,1
+Palm Beach County,FL,5
+Park County,WY,1
+Passaic County,NJ,2
+Pawnee County,OK,1
+Philadelphia County,PA,2
+Pierce County,WA,7
+Plymouth County,MA,2
+Polk County,FL,1
+Prince George's County,MD,4
+Prince William County,VA,1
+Queens County,NY,130
+Rensselaer County,NY,1
+Richland County,SC,1
+Richmond County,GA,1
+Richmond County,NY,17
+Riverside County,CA,1
+Rockingham County,NH,4
+Rockland County,NY,6
+Routt County,CO,1
+Sacramento County,CA,7
+Salt Lake County,UT,6
+San Benito County,CA,2
+San Diego County,CA,5
+San Francisco County,CA,3
+San Luis Obispo County,CA,3
+San Mateo County,CA,23
+Santa Clara County,CA,47
+Santa Cruz County,CA,4
+Santa Fe County,NM,1
+Sarasota County,FL,1
+Saratoga County,NY,4
+Sarpy County,NE,1
+Schenectady County,NY,1
+Shelby County,AL,1
+Sheridan County,WY,2
+Skagit County,WA,2
+Snohomish County,WA,54
+Somerset County,NJ,2
+Spokane County,WA,1
+St. Clair County,AL,1
+St. Johns County,FL,1
+Stanislaus County,CA,1
+Suffolk County,MA,6
+Suffolk County,NY,21
+Sullivan County,NY,1
+Summit County,CO,2
+Summit County,OH,2
+Summit County,UT,11
+Sussex County,DE,1
+Taos County,NM,1
+Terrebonne Parish,LA,1
+Thurston County,WA,2
+Travis County,TX,5
+Troup County,GA,1
+Ulster County,NY,2
+Union County,NJ,7
+Utah County,UT,1
+Ventura County,CA,6
+Volusia County,FL,2
+Ward County,ND,1
+Wasatch County,UT,1
+Washington,DC,9
+Washington County,OR,7
+Washington County,PA,1
+Washoe County,NV,3
+Waukesha County,WI,1
+Wayne County,MI,3
+Webb County,TX,1
+Weber County,UT,3
+Westchester County,NY,160
+Whatcom County,WA,3
+Will County,IL,1
+Williamsburg City,VA,1
+Williamson County,TN,3
+Worcester County,MA,2
+Wyandotte County,KS,2
+Wyoming County,NY,1
+Yakima County,WA,1
+Yolo County,CA,2
+York County,ME,1
+York County,SC,1
+Alachua County,FL,1
+Alameda County,CA,4
+Albany County,NY,13
+Allegheny County,PA,4
+Anne Arundel County,MD,1
+Arlington County,VA,1
+Ashland County,OH,1
+Atlantic County,NJ,3
+Baltimore City,MD,3
+Baltimore County,MD,4
+Bartow County,GA,9
+Beaufort County,SC,2
+Belknap County,NH,2
+Bergen County,NJ,30
+Berks County,PA,1
+Berkshire County,MA,3
+Bernalillo County,NM,2
+Bexar County,TX,1
+Blaine County,ID,5
+Bolivar County,MS,2
+Boone County,MO,1
+Bossier Parish,LA,1
+Bowie County,TX,1
+Bradley County,AR,1
+Brazos County,TX,1
+Brevard County,FL,1
+Bronx County,NY,207
+Broward County,FL,25
+Brown County,WI,1
+Bucks County,PA,1
+Burlington County,NJ,5
+Butler County,OH,2
+Cache County,UT,2
+Caddo Parish,LA,2
+Calhoun County,AL,1
+Camden County,NJ,5
+Carroll County,NH,3
+Cass County,MO,2
+Charles City County,VA,1
+Charles County,MD,1
+Charleston County,SC,1
+Chatham County,NC,2
+Cheatham County,TN,1
+Chenango County,NY,1
+Cherokee County,GA,2
+Chester County,PA,5
+Chesterfield County,VA,1
+Citrus County,FL,1
+City of St. Louis,MO,2
+Clarke County,GA,2
+Clayton County,GA,2
+Cleveland County,OK,3
+Clinton County,IL,1
+Coahoma County,MS,2
+Cobb County,GA,3
+Cole County,MO,1
+Collier County,FL,6
+Contra Costa County,CA,2
+Cook County,IL,71
+Cumberland County,ME,4
+Cuyahoga County,OH,7
+Dallas County,IA,2
+Dallas County,TX,4
+Dane County,WI,4
+Davidson County,TN,16
+Davis County,UT,2
+DeKalb County,GA,3
+Delaware County,PA,5
+Denton County,TX,4
+DeSoto County,MS,1
+Dougherty County,GA,1
+DuPage County,IL,19
+Durham County,NC,11
+Dutchess County,NY,4
+Duval County,FL,4
+East Baton Rouge Parish,LA,3
+Elmore County,AL,2
+Essex County,MA,6
+Essex County,NJ,13
+Essex County,NY,1
+Fairfax County,VA,2
+Fairfield County,CT,21
+Faulkner County,AR,1
+Fayette County,GA,3
+Fayette County,KY,2
+Fond du Lac County,WI,1
+Forsyth County,GA,1
+Franklin County,MA,1
+Franklin County,OH,3
+Franklin County,WA,1
+Fresno County,CA,1
+Fulton County,GA,16
+Gadsden County,FL,1
+Galveston County,TX,1
+Gordon County,GA,1
+Grant County,WA,1
+Greenville County,SC,1
+Guilford County,NC,1
+Hall County,GA,2
+Hamilton County,IN,1
+Hamilton County,NY,1
+Hampden County,MA,1
+Hancock County,MS,1
+Harford County,MD,1
+Harnett County,NC,1
+Harrison County,KY,1
+Harrison County,MS,3
+Hartford County,CT,4
+Hendricks County,IN,1
+Hennepin County,MN,6
+Hillsborough County,FL,5
+Hillsborough County,NH,4
+Honolulu County,HI,2
+Horry County,SC,1
+Houston County,GA,1
+Howard County,MD,5
+Hudson County,NJ,10
+Hunterdon County,NJ,2
+Huron County,OH,1
+Island County,WA,2
+Jackson County (including other portions of Kansas City),MO,1
+James City County,VA,1
+Jefferson County,AL,4
+Jefferson County,KY,3
+Jefferson County,WA,1
+Jefferson Parish,LA,10
+Johnson County,IA,3
+Johnson County,KS,1
+Kane County,IL,1
+Kendall County,IL,2
+Kent County,DE,2
+Kenton County,KY,1
+Kershaw County,SC,3
+Kings County,NY,348
+Kitsap County,WA,2
+Kittitas County,WA,1
+La Crosse County,WI,1
+Lackawanna County,PA,1
+Lafourche Parish,LA,1
+Lake County,FL,1
+Lake County,IL,11
+Lake County,IN,1
+Lake County,OH,1
+Lane County,OR,2
+Laramie County,WY,2
+Leavenworth County,KS,2
+Lee County,AL,5
+Lee County,FL,4
+Lee County,SC,1
+Leon County,FL,1
+Lexington County,SC,1
+Lincoln County,ME,1
+Lincoln County,NC,1
+Lorain County,OH,2
+Los Angeles County,CA,46
+Lowndes County,GA,1
+Macomb County,MI,2
+Madison County,IL,1
+Madison County,MS,1
+Mahoning County,OH,2
+Manatee County,FL,1
+Maricopa County,AZ,2
+Marion County,IN,2
+Marion County,OR,4
+Martin County,MN,1
+Mason County,WA,1
+Maui County,HI,1
+McHenry County,IL,2
+Mecklenburg County,NC,4
+Medina County,TX,1
+Mendocino County,CA,1
+Mercer County,NJ,6
+Mercer County,WV,1
+Merrimack County,NH,1
+Miami-Dade County,FL,34
+Middlesex County,CT,1
+Middlesex County,MA,11
+Middlesex County,NJ,18
+Milwaukee County,WI,23
+Monmouth County,NJ,10
+Monroe County,NY,4
+Monterey County,CA,2
+Montgomery County,KY,1
+Montgomery County,MD,7
+Montgomery County,NY,1
+Montgomery County,PA,10
+Morris County,NJ,12
+Morton County,ND,2
+Nassau County,NY,52
+Navajo County,AZ,1
+New Castle County,DE,5
+New Haven County,CT,2
+New York City Unallocated/Probable,NY,1
+New York County,NY,313
+Newton County,GA,2
+Nicollet County,MN,1
+Norfolk County,MA,2
+Oakland County,MI,7
+Ocean County,NJ,4
+Okaloosa County,FL,2
+Oklahoma County,OK,8
+Orange County,CA,13
+Orange County,FL,5
+Orange County,NY,17
+Orleans Parish,LA,60
+Osceola County,FL,1
+Palm Beach County,FL,8
+Pasco County,FL,1
+Passaic County,NJ,8
+Paulding County,GA,2
+Pearl River County,MS,2
+Penobscot County,ME,1
+Peoria County,IL,2
+Perry County,MS,1
+Philadelphia County,PA,7
+Pierce County,WA,11
+Pike County,PA,1
+Pima County,AZ,1
+Pinal County,AZ,3
+Pinellas County,FL,8
+Placer County,CA,1
+Polk County,FL,1
+Polk County,IA,2
+Prince George's County,MD,6
+Queens County,NY,285
+Rensselaer County,NY,3
+Richland County,SC,3
+Richmond City,VA,3
+Richmond County,NY,41
+Robertson County,TN,1
+Rockingham County,NH,3
+Rockland County,NY,8
+Rusk County,TX,1
+Salt Lake County,UT,2
+San Bernardino County,CA,3
+San Diego County,CA,17
+San Francisco County,CA,8
+San Joaquin County,CA,5
+San Luis Obispo County,CA,1
+San Mateo County,CA,16
+Sandoval County,NM,2
+Santa Barbara County,CA,2
+Santa Clara County,CA,53
+Santa Fe County,NM,1
+Saratoga County,NY,5
+Schenectady County,NY,9
+Scott County,MN,1
+Seminole County,FL,3
+Sheboygan County,WI,1
+Shelby County,TN,2
+Skagit County,WA,5
+Smith County,TX,2
+Snohomish County,WA,56
+Somerset County,NJ,9
+Sonoma County,CA,2
+St. Bernard Parish,LA,1
+St. Clair County,IL,1
+St. John the Baptist Parish,LA,1
+St. Johns County,FL,1
+St. Tammany Parish,LA,4
+Stafford County,VA,1
+Stanislaus County,CA,1
+Suffolk County,MA,9
+Suffolk County,NY,32
+Summit County,UT,7
+Sumner County,TN,2
+Sumter County,FL,1
+Sussex County,DE,2
+Tarrant County,TX,2
+Teton County,WY,1
+Tompkins County,NY,2
+Travis County,TX,14
+Tulare County,CA,2
+Tulsa County,OK,1
+Twin Falls County,ID,1
+Union County,NJ,11
+Utah County,UT,1
+Ventura County,CA,3
+Wake County,NC,2
+Walton County,FL,1
+Warren County,KY,1
+Warren County,NY,1
+Washington,DC,8
+Washington County,AR,1
+Washington County,IA,1
+Washington County,NY,1
+Washington County,OR,2
+Washington County,WI,2
+Washington Parish,LA,1
+Waukesha County,WI,1
+Wayne County,MI,6
+Westchester County,NY,158
+Whatcom County,WA,1
+Whitfield County,GA,1
+Will County,IL,1
+Williamson County,TN,3
+Winneshiek County,IA,1
+Worcester County,MA,2
+Wyandotte County,KS,2
+Yakima County,WA,2
+Yamhill County,OR,1
+Yolo County,CA,1
+York County,ME,1
+York County,PA,2
+Abbeville County,SC,1
+Adams County,CO,2
+Adams County,PA,1
+Alachua County,FL,4
+Alameda County,CA,4
+Albany County,NY,7
+Alexandria City,VA,2
+Allegheny County,PA,5
+Anderson County,SC,1
+Anne Arundel County,MD,1
+Anoka County,MN,2
+Arapahoe County,CO,4
+Arlington County,VA,3
+Ascension Parish,LA,1
+Assumption Parish,LA,1
+Baltimore City,MD,4
+Baltimore County,MD,2
+Barnstable County,MA,3
+Bartow County,GA,7
+Bayfield County,WI,1
+Beadle County,SD,3
+Beaufort County,SC,1
+Beaver County,PA,1
+Belknap County,NH,1
+Bennington County,VT,1
+Benton County,WA,1
+Bergen County,NJ,81
+Berkshire County,MA,1
+Bernalillo County,NM,4
+Bexar County,TX,2
+Bibb County,GA,1
+Blaine County,ID,11
+Blue Earth County,MN,1
+Bossier Parish,LA,2
+Boulder County,CO,3
+Brevard County,FL,1
+Bristol County,MA,1
+Bronx County,NY,193
+Broome County,NY,1
+Broward County,FL,16
+Brown County,WI,1
+Bucks County,PA,3
+Burleigh County,ND,9
+Burlington County,NJ,4
+Cabarrus County,NC,1
+Caddo Parish,LA,4
+Calcasieu Parish,LA,1
+Calumet County,WI,1
+Calvert County,MD,1
+Camden County,NJ,3
+Cape May County,NJ,1
+Carroll County,MD,1
+Cass County,MO,1
+Chambers County,AL,1
+Charleston County,SC,1
+Chenango County,NY,1
+Cherokee County,GA,4
+Cherokee County,KS,1
+Chester County,PA,1
+Christian County,KY,1
+Christian County,MO,1
+City and Borough of Juneau,AK,1
+Clallam County,WA,1
+Clark County,AR,1
+Clark County,IN,1
+Clark County,KY,1
+Clark County,NV,32
+Clark County,OH,1
+Clarke County,GA,3
+Clay County,MN,1
+Cleburne County,AR,9
+Cleveland County,OK,4
+Clinton County,MI,1
+Clinton County,NY,1
+Cobb County,GA,9
+Coconino County,AZ,1
+Cole County,MO,1
+Collier County,FL,5
+Collin County,TX,1
+Columbia County,WI,4
+Contra Costa County,CA,1
+Cook County,IL,100
+Craighead County,AR,1
+Craven County,NC,1
+Cumberland County,ME,1
+Cumberland County,PA,1
+Cumberland County,TN,1
+Custer County,OK,1
+Cuyahoga County,OH,15
+Dakota County,MN,1
+Dallas County,TX,39
+Dane County,WI,4
+Davidson County,NC,1
+Davidson County,TN,17
+Daviess County,KY,1
+DeKalb County,GA,4
+Delaware County,OH,2
+Denton County,TX,3
+Denver County,CO,11
+DeSoto County,MS,1
+DeWitt County,TX,1
+Dougherty County,GA,13
+Douglas County,CO,4
+Douglas County,NE,4
+Dubuque County,IA,1
+DuPage County,IL,9
+Durham County,NC,21
+Dutchess County,NY,11
+Duval County,FL,1
+Dyer County,TN,1
+Eagle County,CO,17
+Early County,GA,2
+East Baton Rouge Parish,LA,3
+Eaton County,MI,2
+Eau Claire County,WI,1
+El Paso County,CO,9
+Elko County,NV,1
+Elmore County,AL,1
+Erie County,NY,21
+Essex County,MA,5
+Essex County,NJ,18
+Fairfax County,VA,2
+Fairfield County,CT,33
+Fayette County,GA,1
+Fayette County,IN,1
+Fond du Lac County,WI,2
+Forrest County,MS,1
+Forsyth County,GA,1
+Forsyth County,NC,5
+Franklin County,OH,3
+Franklin County,WA,1
+Fulton County,GA,17
+Fulton County,NY,1
+Gallatin County,MT,1
+Garfield County,CO,1
+Gaston County,NC,1
+Genesee County,NY,1
+Gloucester County,NJ,1
+Glynn County,GA,2
+Grady County,OK,1
+Grafton County,NH,2
+Grand County,CO,1
+Grant County,AR,1
+Greene County,MO,3
+Greenville County,SC,4
+Guilford County,NC,3
+Gunnison County,CO,2
+Gwinnett County,GA,5
+Hall County,GA,2
+Hamilton County,NY,1
+Hamilton County,OH,1
+Hampden County,MA,1
+Hampshire County,MA,1
+Harnett County,NC,2
+Harrison County,MS,3
+Hartford County,CT,7
+Hays County,TX,2
+Henderson County,KY,1
+Hennepin County,MN,3
+Henrico County,VA,1
+Henry County,GA,1
+Hernando County,FL,1
+Hillsborough County,FL,6
+Hoke County,NC,1
+Holmes County,MS,1
+Honolulu County,HI,8
+Horry County,SC,1
+Howard County,IN,3
+Howard County,MD,8
+Hudson County,NJ,21
+Hunterdon County,NJ,2
+Iberia Parish,LA,1
+Iberville Parish,LA,1
+Imperial County,CA,2
+Independence County,AR,1
+Indian River County,FL,1
+Ingham County,MI,4
+Iredell County,NC,1
+Island County,WA,1
+Jackson County,FL,1
+Jackson County,IL,1
+Jackson County,KS,1
+Jackson County,MS,1
+James City County,VA,1
+Jefferson County,AL,9
+Jefferson County,AR,5
+Jefferson County,CO,19
+Jefferson County,KY,7
+Jefferson County,NY,1
+Jefferson Parish,LA,24
+Jennings County,IN,1
+Johnson County,IA,1
+Johnson County,KS,5
+Johnson County,TX,2
+Jones County,MS,1
+Kane County,IL,2
+Kankakee County,IL,1
+Kennebec County,ME,2
+Kent County,DE,1
+Kent County,MI,2
+Kern County,CA,4
+Kershaw County,SC,4
+King County,WA,131
+Kings County,NY,690
+Kitsap County,WA,3
+Klickitat County,WA,1
+Kootenai County,ID,1
+La Crosse County,WI,1
+Lackawanna County,PA,1
+Lafayette Parish,LA,3
+Lafourche Parish,LA,1
+Lake County,FL,1
+Lake County,IL,19
+Lake County,IN,1
+Lancaster County,PA,2
+Lancaster County,SC,1
+Larimer County,CO,3
+LaSalle County,IL,1
+Laurens County,GA,2
+Lebanon County,PA,1
+Lee County,AL,2
+Lee County,GA,1
+Leon County,FL,3
+Lexington County,SC,1
+Lincoln County,NE,2
+Linn County,KS,1
+Linn County,OR,3
+Litchfield County,CT,2
+Livingston County,MI,1
+Livingston Parish,LA,1
+Logan County,OK,1
+Los Angeles County,CA,41
+Lowndes County,GA,1
+Macomb County,MI,45
+Madera County,CA,1
+Madison County,AL,4
+Madison County,IN,1
+Mahoning County,OH,2
+Manatee County,FL,1
+Maricopa County,AZ,11
+Marin County,CA,10
+Marion County,IN,8
+Marion County,OR,5
+Martin County,FL,1
+Martin County,MN,2
+Matagorda County,TX,2
+Maui County,HI,2
+McClain County,OK,1
+McLennan County,TX,1
+Mecklenburg County,NC,17
+Medina County,OH,2
+Mercer County,NJ,5
+Merrimack County,NH,1
+Miami County,OH,1
+Miami-Dade County,FL,24
+Middlesex County,CT,2
+Middlesex County,MA,19
+Middlesex County,NJ,24
+Midland County,MI,1
+Milwaukee County,WI,15
+Missoula County,MT,1
+Mobile County,AL,1
+Monmouth County,NJ,11
+Monongalia County,WV,1
+Monroe County,MI,1
+Monroe County,NY,13
+Monroe County,PA,8
+Montgomery County,AL,1
+Montgomery County,MD,2
+Montgomery County,OH,1
+Montgomery County,PA,5
+Montgomery County,TN,1
+Moore County,NC,2
+Morgan County,CO,1
+Morris County,KS,2
+Morris County,NJ,7
+Morton County,ND,2
+Mower County,MN,1
+Multnomah County,OR,4
+Municipality of Anchorage,AK,2
+Muscatine County,IA,1
+Muscogee County,GA,1
+Nassau County,NY,189
+Navajo County,AZ,1
+Nemaha County,NE,1
+New Castle County,DE,3
+New Hanover County,NC,1
+New Haven County,CT,13
+New York City Unallocated/Probable,NY,3
+New York County,NY,448
+Niagara County,NY,1
+Nicollet County,MN,1
+Norfolk County,MA,7
+Northampton County,PA,4
+Nye County,NV,1
+Oakland County,MI,82
+Ocean County,NJ,25
+Okaloosa County,FL,1
+Oklahoma County,OK,4
+Olmsted County,MN,3
+Oneida County,NY,2
+Onondaga County,NY,3
+Orange County,CA,11
+Orange County,FL,8
+Orange County,NC,4
+Orange County,NY,19
+Orange County,VT,1
+Orleans Parish,LA,53
+Osceola County,FL,5
+Owen County,IN,1
+Ozaukee County,WI,3
+Palm Beach County,FL,8
+Pasco County,FL,2
+Pasquotank County,NC,1
+Passaic County,NJ,20
+Peach County,GA,1
+Pearl River County,MS,3
+Philadelphia County,PA,16
+Pierce County,WA,19
+Pima County,AZ,2
+Pinal County,AZ,2
+Pinellas County,FL,4
+Pitkin County,CO,1
+Pitt County,NC,1
+Plaquemines Parish,LA,1
+Poinsett County,AR,1
+Polk County,FL,2
+Polk County,IA,3
+Pope County,AR,1
+Prince George's County,MD,3
+Prince William County,VA,7
+Pulaski County,AR,5
+Pulaski County,KY,1
+Putnam County,NY,3
+Queens County,NY,509
+Racine County,WI,2
+Ramsey County,MN,6
+Rapides Parish,LA,1
+Rensselaer County,NY,2
+Rice County,MN,1
+Richland County,OH,1
+Richland County,SC,4
+Richmond County,GA,1
+Richmond County,NY,102
+Riverside County,CA,6
+Robertson County,TN,1
+Rockdale County,GA,1
+Rockingham County,NH,1
+Rockland County,NY,23
+Rowan County,NC,1
+Sacramento County,CA,5
+Salt Lake County,UT,7
+Saluda County,SC,1
+San Diego County,CA,14
+San Francisco County,CA,19
+San Joaquin County,CA,3
+San Luis Obispo County,CA,6
+San Mateo County,CA,17
+San Miguel County,NM,1
+Sangamon County,IL,1
+Santa Barbara County,CA,5
+Santa Clara County,CA,52
+Santa Cruz County,CA,1
+Santa Fe County,NM,2
+Santa Rosa County,FL,1
+Sarasota County,FL,2
+Saratoga County,NY,4
+Sauk County,WI,1
+Schenectady County,NY,4
+Schoharie County,NY,1
+Searcy County,AR,1
+Seminole County,FL,1
+Sevier County,AR,1
+Sheboygan County,WI,2
+Shelby County,AL,5
+Skagit County,WA,4
+Smith County,MS,1
+Snohomish County,WA,38
+Solano County,CA,2
+Somerset County,NJ,5
+Sonoma County,CA,1
+Spokane County,WA,5
+St. Bernard Parish,LA,1
+St. Charles Parish,LA,1
+St. Clair County,MI,2
+St. James Parish,LA,1
+St. John the Baptist Parish,LA,1
+St. Joseph County,IN,2
+St. Landry Parish,LA,2
+St. Louis County,MO,6
+Stark County,OH,2
+Stearns County,MN,1
+Suffolk County,MA,21
+Suffolk County,NY,62
+Sullivan County,NY,2
+Summit County,CO,2
+Summit County,OH,2
+Summit County,UT,4
+Sumner County,TN,1
+Sumter County,FL,1
+Sussex County,NJ,2
+Talladega County,AL,1
+Tarrant County,TX,14
+Terrebonne Parish,LA,1
+Tippecanoe County,IN,1
+Tolland County,CT,4
+Tompkins County,NY,3
+Travis County,TX,20
+Tucker County,WV,1
+Tulare County,CA,2
+Tulsa County,OK,1
+Tuscaloosa County,AL,1
+Ulster County,NY,1
+Union County,NC,2
+Union County,NJ,3
+Utah County,UT,1
+Van Buren County,AR,1
+Ventura County,CA,4
+Wake County,NC,6
+Walker County,AL,1
+Walthall County,MS,1
+Walworth County,WI,2
+Ward County,ND,1
+Warren County,NJ,3
+Wasatch County,UT,1
+Washington,DC,32
+Washington County,IL,1
+Washington County,MN,2
+Washington County,OK,1
+Washington County,OR,2
+Washington County,PA,1
+Washington Parish,LA,1
+Washoe County,NV,2
+Washtenaw County,MI,7
+Watauga County,NC,1
+Waukesha County,WI,7
+Wayne County,MI,96
+Wayne County,NY,1
+Webster Parish,LA,1
+Weld County,CO,4
+West Baton Rouge Parish,LA,2
+Westchester County,NY,260
+Westmoreland County,PA,2
+Wilkinson County,MS,1
+Will County,IL,6
+Williamson County,IL,1
+Williamson County,TN,6
+Williamson County,TX,2
+Wilson County,NC,1
+Wilson County,TN,1
+Windham County,CT,1
+Winnebago County,WI,2
+Winston County,MS,1
+Woodford County,IL,1
+Worcester County,MA,4
+Wright County,MN,1
+Wyandotte County,KS,3
+Wyoming County,NY,1
+Yazoo County,MS,1
+York County,ME,1
+Yuma County,CO,1
+Accomack County,VA,1
+Ada County,ID,1
+Adams County,CO,2
+Adams County,IL,1
+Adams County,MS,1
+Adams County,PA,3
+Aiken County,SC,1
+Alachua County,FL,10
+Alameda County,CA,10
+Albany County,NY,18
+Allegheny County,PA,12
+Allen County,IN,4
+Amador County,CA,1
+Anderson County,SC,3
+Anderson County,TN,1
+Anne Arundel County,MD,10
+Arapahoe County,CO,7
+Ascension Parish,LA,1
+Ashtabula County,OH,1
+Baker County,FL,1
+Baldwin County,AL,1
+Baltimore City,MD,7
+Baltimore County,MD,7
+Barnstable County,MA,4
+Bartow County,GA,28
+Bay County,FL,1
+Beaufort County,SC,1
+Beaver County,PA,1
+Bell County,TX,1
+Benton County,AR,1
+Benton County,WA,1
+Bergen County,NJ,54
+Berkeley County,SC,1
+Berks County,PA,4
+Berkshire County,MA,2
+Bernalillo County,NM,3
+Bexar County,TX,6
+Blaine County,ID,3
+Blount County,TN,1
+Boone County,AR,1
+Boone County,IN,1
+Boone County,MO,7
+Bossier Parish,LA,1
+Boulder County,CO,5
+Bradley County,TN,1
+Brazoria County,TX,1
+Brazos County,TX,1
+Brevard County,FL,1
+Bronx County,NY,171
+Broomfield County and City,CO,1
+Broward County,FL,55
+Bucks County,PA,4
+Buffalo County,NE,1
+Burleigh County,ND,2
+Burlington County,NJ,3
+Butler County,KS,1
+Butler County,OH,4
+Caddo Parish,LA,2
+Calcasieu Parish,LA,2
+Calloway County,KY,1
+Camden County,NJ,2
+Cameron County,TX,1
+Campbell County,WY,1
+Canyon County,ID,1
+Carroll County,GA,7
+Carroll County,MD,1
+Carroll County,NH,1
+Carson City,NV,1
+Carver County,MN,2
+Cass County,MO,1
+Centre County,PA,1
+Charles County,MD,2
+Charlotte County,FL,1
+Chatham County,GA,2
+Cheatham County,TN,1
+Cherokee County,GA,3
+Cheshire County,NH,1
+Chester County,PA,7
+Chippewa County,WI,1
+Chisago County,MN,1
+Citrus County,FL,4
+City of St. Louis,MO,3
+Clackamas County,OR,4
+Clarendon County,SC,1
+Clark County,IN,3
+Clark County,NV,52
+Clark County,WA,2
+Clarke County,GA,1
+Clay County,FL,1
+Clayton County,GA,4
+Cleveland County,OK,3
+Coahoma County,MS,1
+Cobb County,GA,10
+Coconino County,AZ,4
+Cole County,MO,1
+Collier County,FL,9
+Collin County,TX,5
+Columbia County,NY,1
+Columbia County,WI,1
+Contra Costa County,CA,4
+Cook County,IL,133
+Coweta County,GA,3
+Cowlitz County,WA,1
+Crane County,TX,1
+Crittenden County,AR,1
+Crowley County,CO,1
+Cullman County,AL,1
+Cumberland County,ME,10
+Cumberland County,NJ,1
+Cumberland County,TN,1
+Cuyahoga County,OH,16
+Dallas County,TX,20
+Dane County,WI,5
+Darlington County,SC,1
+Davidson County,TN,26
+Davis County,UT,6
+Dawson County,GA,1
+De Soto Parish,LA,2
+DeKalb County,GA,14
+Delaware County,IN,1
+Delaware County,PA,9
+Denton County,TX,4
+Denver County,CO,18
+Deschutes County,OR,2
+DeSoto County,MS,2
+Dickson County,TN,2
+Dona Ana County,NM,1
+Dorchester County,SC,1
+Dougherty County,GA,24
+Douglas County,CO,3
+Douglas County,GA,1
+Douglas County,NE,3
+Douglas County,WI,1
+Dunklin County,MO,1
+Dunn County,WI,1
+DuPage County,IL,3
+Dutchess County,NY,5
+Eagle County,CO,10
+East Baton Rouge Parish,LA,1
+Effingham County,GA,1
+El Dorado County,CA,1
+El Paso County,CO,12
+Elkhart County,IN,1
+Elko County,NV,1
+Ellis County,TX,2
+Elmore County,AL,1
+Erie County,NY,3
+Erie County,PA,1
+Essex County,MA,10
+Essex County,NJ,10
+Fairfield County,CT,20
+Fannin County,TX,1
+Fillmore County,MN,2
+Flathead County,MT,1
+Florence County,SC,1
+Floyd County,GA,1
+Floyd County,IN,1
+Fort Bend County,TX,2
+Franklin County,KY,1
+Franklin County,MS,1
+Franklin County,OH,4
+Franklin County,PA,1
+Fremont County,WY,1
+Fresno County,CA,3
+Fulton County,GA,22
+Galveston County,TX,2
+Garfield County,CO,1
+Garland County,AR,4
+Garvin County,OK,1
+Genesee County,MI,1
+Gloucester County,VA,1
+Grafton County,NH,3
+Grand County,CO,1
+Grant County,IN,1
+Grant County,OR,1
+Green County,WI,1
+Greene County,AR,1
+Greene County,MO,2
+Greene County,TN,1
+Greenville County,SC,5
+Gwinnett County,GA,11
+Hall County,GA,1
+Hamblen County,TN,1
+Hamilton County,IN,8
+Hamilton County,OH,6
+Hamilton County,TN,4
+Hampshire County,MA,1
+Hancock County,IN,1
+Hancock County,MS,1
+Hardin County,KY,1
+Harford County,MD,2
+Harris County,TX,26
+Harrison County,IN,1
+Harrison County,MS,1
+Hartford County,CT,11
+Hays County,TX,1
+Heard County,GA,1
+Hendricks County,IN,2
+Hennepin County,MN,12
+Henry County,GA,3
+Herkimer County,NY,1
+Hernando County,FL,4
+Hillsborough County,FL,22
+Hillsborough County,NH,2
+Hinds County,MS,1
+Hockley County,TX,1
+Holmes County,MS,2
+Honolulu County,HI,10
+Horry County,SC,2
+Howard County,MD,3
+Hudson County,NJ,11
+Humphreys County,MS,1
+Hunterdon County,NJ,3
+Iberia Parish,LA,1
+Ingham County,MI,1
+Island County,WA,2
+Jackson County,AL,1
+Jackson County,MS,1
+Jackson County,WV,1
+Jackson County (including other portions of Kansas City),MO,16
+James City County,VA,5
+Jefferson County,AL,16
+Jefferson County,AR,1
+Jefferson County,CO,1
+Jefferson County,WI,1
+Jefferson County,WV,1
+Jefferson Parish,LA,35
+Johnson County,IN,4
+Johnson County,KS,7
+Kanawha County,WV,1
+Kane County,IL,2
+Kay County,OK,1
+Kennebec County,ME,1
+Kent County,DE,1
+Kent County,MI,5
+Kershaw County,SC,7
+King County,WA,100
+Kings County,NY,323
+Knox County,TN,1
+Kootenai County,ID,2
+La Crosse County,WI,2
+Lackawanna County,PA,2
+Lafayette County,MS,1
+Lafayette Parish,LA,3
+Lafourche Parish,LA,1
+Lake County,FL,1
+Lake County,IL,16
+Lake County,IN,3
+Lake County,OH,1
+Lamar County,AL,1
+Lamar County,GA,1
+LaPorte County,IN,1
+Larimer County,CO,2
+Lauderdale County,AL,1
+Lawrence County,MS,1
+Lee County,AL,1
+Lee County,FL,3
+Lee County,GA,10
+Lee County,MS,1
+Leflore County,MS,3
+Lehigh County,PA,1
+Lewis and Clark County,MT,3
+Lexington County,SC,3
+Lincoln County,ME,1
+Linn County,OR,1
+Litchfield County,CT,1
+Livingston County,MI,2
+Livingston County,NY,1
+Lorain County,OH,4
+Los Angeles County,CA,61
+Loudoun County,VA,4
+Lowndes County,GA,1
+Lubbock County,TX,1
+Lucas County,OH,1
+Luzerne County,PA,1
+Macomb County,MI,31
+Madison County,AL,2
+Madison County,MS,2
+Madison County,MT,1
+Mahoning County,OH,2
+Manatee County,FL,2
+Marathon County,WI,1
+Maricopa County,AZ,12
+Marin County,CA,13
+Marion County,IN,27
+Marion County,OH,1
+Marion County,OR,4
+Marshall County,MS,1
+Martin County,MN,1
+Maury County,TN,1
+McHenry County,IL,4
+McKinley County,NM,1
+McLean County,IL,4
+McLennan County,TX,6
+Medina County,OH,1
+Mercer County,NJ,2
+Merrimack County,NH,1
+Miami County,IN,1
+Miami-Dade County,FL,41
+Middlesex County,CT,2
+Middlesex County,MA,25
+Middlesex County,NJ,12
+Midland County,MI,2
+Miller County,GA,1
+Milwaukee County,WI,23
+Mobile County,AL,1
+Monmouth County,NJ,10
+Mono County,CA,1
+Monroe County,FL,1
+Monroe County,GA,1
+Monroe County,MI,1
+Monroe County,MS,1
+Monroe County,NY,5
+Monroe County,PA,4
+Monterey County,CA,3
+Montgomery County,MD,35
+Montgomery County,PA,12
+Montgomery County,TN,2
+Montgomery County,TX,1
+Morgan County,CO,1
+Morris County,NJ,9
+Morton County,ND,3
+Multnomah County,OR,5
+Nassau County,NY,382
+Natrona County,WY,1
+New Castle County,DE,4
+New London County,CT,1
+New York County,NY,276
+Newport News City,VA,1
+Newton County,GA,1
+Niagara County,NY,2
+Norfolk City,VA,1
+Norfolk County,MA,12
+Northampton County,PA,5
+Oakland County,MI,79
+Ocean County,NJ,16
+Oconee County,GA,1
+Okaloosa County,FL,4
+Oklahoma County,OK,1
+Olmsted County,MN,5
+Onondaga County,NY,3
+Ontario County,NY,2
+Orange County,CA,12
+Orange County,FL,4
+Orange County,NY,33
+Orangeburg County,SC,2
+Orleans Parish,LA,77
+Osceola County,FL,1
+Outagamie County,WI,1
+Ozaukee County,WI,4
+Palm Beach County,FL,16
+Park County,CO,1
+Pasco County,FL,3
+Passaic County,NJ,11
+Penobscot County,ME,1
+Philadelphia County,PA,9
+Pickens County,GA,2
+Pickens County,SC,1
+Pierce County,ND,1
+Pierce County,WA,8
+Pike County,MS,1
+Pima County,AZ,1
+Pinellas County,FL,11
+Pitkin County,CO,2
+Plymouth County,MA,6
+Polk County,AR,1
+Polk County,FL,6
+Polk County,GA,2
+Portsmouth City,VA,1
+Potter County,PA,1
+Prince George's County,MD,13
+Prince William County,VA,1
+Pueblo County,CO,1
+Pulaski County,AR,8
+Pulaski County,MO,1
+Putnam County,FL,1
+Putnam County,NY,2
+Queens County,NY,364
+Ramsey County,MN,4
+Ramsey County,ND,1
+Randolph County,GA,1
+Rankin County,MS,3
+Rapides Parish,LA,1
+Rensselaer County,NY,2
+Richland County,SC,14
+Richmond City,VA,2
+Richmond County,GA,6
+Richmond County,NY,63
+Riverside County,CA,6
+Rock County,WI,1
+Rockingham County,NH,2
+Rockland County,NY,48
+Roosevelt County,MT,1
+Sacramento County,CA,8
+Salt Lake County,UT,15
+San Bernardino County,CA,4
+San Diego County,CA,31
+San Francisco County,CA,14
+San Joaquin County,CA,8
+San Luis Obispo County,CA,3
+San Mateo County,CA,13
+Sandoval County,NM,2
+Santa Barbara County,CA,1
+Santa Clara County,CA,62
+Santa Cruz County,CA,1
+Santa Rosa County,FL,1
+Sarasota County,FL,4
+Saratoga County,NY,6
+Sarpy County,NE,1
+Sauk County,WI,1
+Schenectady County,NY,3
+Scott County,IN,1
+Scott County,MN,1
+Scott County,MO,1
+Sedgwick County,KS,1
+Seminole County,FL,3
+Shelby County,AL,1
+Shelby County,IN,1
+Skagit County,WA,7
+Snohomish County,WA,37
+Somerset County,NJ,7
+Sonoma County,CA,12
+Spalding County,GA,2
+Spencer County,KY,1
+Spokane County,WA,2
+St. Bernard Parish,LA,1
+St. Charles County,MO,2
+St. Charles Parish,LA,3
+St. Clair County,MI,3
+St. Croix County,WI,2
+St. John the Baptist Parish,LA,3
+St. Johns County,FL,4
+St. Joseph County,IN,3
+St. Louis County,MO,4
+St. Lucie County,FL,1
+St. Tammany Parish,LA,2
+Stark County,OH,1
+Suffolk County,MA,17
+Suffolk County,NY,193
+Sullivan County,NY,5
+Summit County,CO,2
+Summit County,OH,4
+Summit County,UT,9
+Sumner County,TN,8
+Sumter County,FL,1
+Sumter County,GA,2
+Sussex County,DE,4
+Sussex County,NJ,1
+Tangipahoa Parish,LA,1
+Taos County,NM,1
+Terrebonne Parish,LA,3
+Terrell County,GA,2
+Teton County,ID,1
+Teton County,WY,1
+Tift County,GA,1
+Tippah County,MS,3
+Tippecanoe County,IN,1
+Tipton County,TN,1
+Tompkins County,NY,1
+Tooele County,UT,1
+Trumbull County,OH,1
+Tucker County,WV,1
+Tulare County,CA,4
+Turner County,GA,1
+Ulster County,NY,2
+Union County,NJ,14
+Union County,OH,1
+Union County,OR,1
+Vanderburgh County,IN,1
+Ventura County,CA,2
+Vigo County,IN,1
+Volusia County,FL,1
+Walton County,FL,2
+Walworth County,WI,1
+Warren County,OH,2
+Wasatch County,UT,1
+Washington,DC,6
+Washington County,AL,1
+Washington County,OR,6
+Washington County,TN,2
+Washington County,WI,1
+Washoe County,NV,8
+Washtenaw County,MI,2
+Waukesha County,WI,3
+Wayne County,MI,97
+Webster County,MS,1
+Weld County,CO,6
+West Baton Rouge Parish,LA,1
+Westchester County,NY,293
+Westmoreland County,PA,2
+Whatcom County,WA,3
+Wichita County,TX,1
+Wicomico County,MD,2
+Will County,IL,1
+Williamsburg City,VA,3
+Williamson County,TN,5
+Williamson County,TX,6
+Wilson County,TN,1
+Winnebago County,IL,1
+Worcester County,MA,5
+Worcester County,MD,1
+Worth County,GA,2
+Wyandotte County,KS,1
+Yakima County,WA,3
+Yamhill County,OR,2
+Yavapai County,AZ,1
+Yellowstone County,MT,3
+Yolo County,CA,1
+York County,ME,2
+York County,PA,4
+York County,VA,2
+Ada County,ID,7
+Adams County,CO,2
+Adams County,NE,1
+Addison County,VT,1
+Alachua County,FL,4
+Alamance County,NC,1
+Alameda County,CA,20
+Albany County,NY,62
+Albemarle County,VA,1
+Alexandria City,VA,1
+Allamakee County,IA,3
+Allegheny County,PA,3
+Anderson County,SC,4
+Apache County,AZ,3
+Arapahoe County,CO,11
+Arlington County,VA,5
+Ascension Parish,LA,9
+Atlantic County,NJ,1
+Attala County,MS,1
+Avoyelles Parish,LA,1
+Baldwin County,GA,2
+Barnstable County,MA,2
+Barry County,MI,1
+Bartow County,GA,2
+Bates County,MO,1
+Beaufort County,SC,5
+Beauregard Parish,LA,1
+Bell County,TX,1
+Benton County,WA,5
+Bergen County,NJ,114
+Berks County,PA,2
+Berkshire County,MA,1
+Bernalillo County,NM,9
+Berrien County,MI,2
+Bexar County,TX,10
+Bienville Parish,LA,1
+Bingham County,ID,1
+Black Hawk County,IA,2
+Blaine County,ID,2
+Blue Earth County,MN,1
+Boone County,MO,2
+Botetourt County,VA,1
+Boulder County,CO,14
+Brazoria County,TX,1
+Brevard County,FL,1
+Bristol County,MA,8
+Bronx County,NY,404
+Broward County,FL,13
+Brown County,TX,1
+Brown County,WI,1
+Brunswick County,NC,2
+Bucks County,PA,8
+Burleigh County,ND,2
+Burlington County,NJ,4
+Butler County,OH,4
+Butler County,PA,1
+Butte County,CA,1
+Caddo Parish,LA,3
+Calcasieu Parish,LA,1
+Calhoun County,MI,1
+Camden County,NJ,2
+Cape May County,NJ,1
+Carbon County,WY,1
+Carroll County,GA,7
+Carroll County,TN,2
+Cass County,MO,2
+Castro County,TX,1
+Catahoula Parish,LA,1
+Catawba County,NC,1
+Chaffee County,CO,2
+Charleston County,SC,4
+Chatham County,GA,2
+Chelan County,WA,1
+Cherokee County,GA,1
+Chester County,PA,2
+Chesterfield County,VA,2
+Chittenden County,VT,10
+Christian County,IL,1
+Citrus County,FL,1
+City of St. Louis,MO,1
+Clackamas County,OR,1
+Clallam County,WA,1
+Clare County,MI,1
+Clark County,WA,3
+Clay County,FL,1
+Clay County,MS,1
+Clayton County,GA,3
+Clear Creek County,CO,1
+Cleburne County,AR,12
+Clermont County,OH,2
+Cleveland County,OK,1
+Clinton County,MI,1
+Coahoma County,MS,2
+Cobb County,GA,3
+Cocke County,TN,1
+Coconino County,AZ,6
+Colleton County,SC,1
+Collier County,FL,1
+Collin County,TX,1
+Columbia County,GA,2
+Contra Costa County,CA,5
+Cook County,IL,137
+Coweta County,GA,2
+Cowlitz County,WA,1
+Cullman County,AL,1
+Cumberland County,ME,6
+Cumberland County,NC,2
+Cuyahoga County,OH,23
+Dane County,WI,17
+Darlington County,SC,1
+Davidson County,TN,39
+Davis County,UT,2
+Deaf Smith County,TX,1
+Defiance County,OH,2
+DeKalb County,GA,5
+DeKalb County,IL,1
+Delaware County,OH,2
+Delaware County,PA,10
+Denton County,TX,6
+Denver County,CO,30
+Deschutes County,OR,1
+DeSoto County,MS,9
+Dickson County,TN,1
+Dillon County,SC,1
+Dodge County,MN,1
+Dona Ana County,NM,1
+Dougherty County,GA,3
+Douglas County,CO,10
+Douglas County,GA,3
+Douglas County,NE,8
+Dubuque County,IA,1
+DuPage County,IL,8
+Durham County,NC,4
+Dutchess County,NY,13
+Duval County,FL,10
+Dyer County,TN,1
+Eagle County,CO,13
+East Baton Rouge Parish,LA,11
+Eau Claire County,WI,1
+Edgefield County,SC,1
+El Paso County,CO,10
+El Paso County,TX,3
+Elbert County,CO,3
+Erie County,OH,1
+Essex County,MA,12
+Essex County,NJ,34
+Evangeline Parish,LA,2
+Fairfax County,VA,6
+Fairfield County,CT,18
+Fayette County,IA,1
+Fayette County,TN,1
+Flathead County,MT,1
+Floyd County,GA,1
+Fond du Lac County,WI,1
+Forrest County,MS,1
+Forsyth County,GA,1
+Forsyth County,NC,1
+Franklin County,MA,1
+Franklin County,MS,1
+Franklin County,OH,7
+Franklin County,VA,1
+Franklin County,VT,2
+Fulton County,GA,11
+Gallatin County,MT,5
+Gallia County,OH,1
+Galveston County,TX,2
+Garfield County,CO,3
+Garland County,AR,1
+Garvin County,OK,1
+Genesee County,MI,6
+George County,MS,1
+Gloucester County,NJ,3
+Gloucester County,VA,1
+Gordon County,GA,1
+Grafton County,NH,1
+Grant County,WA,3
+Granville County,NC,1
+Greene County,MO,2
+Greenville County,SC,5
+Greenwood County,SC,2
+Grenada County,MS,1
+Guilford County,NC,3
+Gunnison County,CO,5
+Hall County,GA,3
+Hamblen County,TN,1
+Hamilton County,OH,1
+Hamilton County,TN,2
+Hampden County,MA,6
+Hancock County,MS,1
+Harnett County,NC,1
+Harrison County,MS,2
+Hartford County,CT,6
+Hawaii County,HI,1
+Hays County,TX,1
+Hennepin County,MN,7
+Henrico County,VA,4
+Henry County,GA,1
+Henry County,IA,1
+Hillsborough County,FL,5
+Hillsborough County,NH,2
+Hinds County,MS,7
+Hinsdale County,CO,1
+Hockley County,TX,1
+Honolulu County,HI,7
+Horry County,SC,1
+Hudson County,NJ,31
+Hunterdon County,NJ,3
+Iberville Parish,LA,1
+Imperial County,CA,2
+Indian River County,FL,4
+Ingham County,MI,4
+Isle of Wight County,VA,1
+Itawamba County,MS,3
+Jackson County,MN,1
+Jackson County,MS,2
+Jackson County (including other portions of Kansas City),MO,1
+James City County,VA,1
+Jasper County,MO,1
+Jefferson County,AL,11
+Jefferson County,AR,8
+Jefferson County,CO,6
+Jefferson Parish,LA,62
+Johnson County,IA,5
+Johnson County,KS,2
+Johnson County,MO,1
+Johnston County,NC,1
+Josephine County,OR,1
+Kankakee County,IL,1
+Kenosha County,WI,1
+Kent County,MI,9
+Kern County,CA,1
+Kershaw County,SC,7
+King County,WA,141
+Kings County,NY,966
+Kitsap County,WA,3
+Klickitat County,WA,2
+Knox County,TN,1
+Lackawanna County,PA,1
+Lafayette County,MS,1
+Lafourche Parish,LA,6
+Lake County,IL,10
+Lake County,OH,1
+Lancaster County,PA,2
+Lane County,OR,1
+Laramie County,WY,1
+Larimer County,CO,12
+Lauderdale County,AL,1
+Lea County,NM,1
+Leake County,MS,1
+Leavenworth County,KS,2
+Lebanon County,PA,1
+Lee County,AL,1
+Lee County,FL,3
+Lee County,GA,1
+Lee County,MS,4
+Lee County,NC,1
+Lehigh County,PA,11
+Lewis County,WA,1
+Lexington County,SC,4
+Licking County,OH,1
+Lincoln County,GA,1
+Lincoln County,MS,1
+Linn County,IA,3
+Litchfield County,CT,3
+Livingston County,MI,3
+Livingston Parish,LA,1
+Lorain County,OH,4
+Los Angeles County,CA,59
+Loudoun County,VA,5
+Lowndes County,MS,4
+Lubbock County,TX,1
+Lucas County,OH,2
+Lumpkin County,GA,1
+Luzerne County,PA,4
+Macomb County,MI,15
+Madison County,AL,2
+Madison County,MS,4
+Mahoning County,OH,7
+Manatee County,FL,2
+Maricopa County,AZ,15
+Marion County,AL,1
+Marion County,FL,2
+Marion County,OR,2
+Marshall County,MS,1
+Marshall County,WV,2
+Martin County,MN,1
+Maui County,HI,2
+McHenry County,IL,3
+McLean County,IL,2
+Mecklenburg County,NC,13
+Mecklenburg County,VA,1
+Medina County,OH,3
+Mercer County,NJ,8
+Mercer County,WV,1
+Merrimack County,NH,1
+Miami County,OH,10
+Miami-Dade County,FL,27
+Middlesex County,CT,1
+Middlesex County,MA,33
+Middlesex County,NJ,40
+Midland County,TX,1
+Milwaukee County,WI,41
+Mitchell County,KS,1
+Monmouth County,NJ,39
+Monroe County,NY,10
+Monroe County,PA,6
+Monroe County,TN,2
+Montgomery County,PA,12
+Montrose County,CO,1
+Morris County,NJ,29
+Mower County,MN,2
+Multnomah County,OR,6
+Muscatine County,IA,1
+Muscogee County,GA,1
+Nassau County,NY,480
+Navajo County,AZ,7
+New Castle County,DE,5
+New Haven County,CT,1
+New York City Unallocated/Probable,NY,2
+New York County,NY,549
+Newberry County,SC,1
+Newport News City,VA,1
+Norfolk City,VA,2
+Norfolk County,MA,5
+Northampton County,PA,7
+Oakland County,MI,45
+Ocean County,NJ,13
+Okaloosa County,FL,3
+Oklahoma County,OK,1
+Oldham County,TX,1
+Olmsted County,MN,1
+Orange County,CA,13
+Orange County,FL,6
+Orange County,NC,1
+Orange County,NY,4
+Orangeburg County,SC,1
+Orleans Parish,LA,92
+Osceola County,FL,7
+Ottawa County,MI,1
+Ouachita Parish,LA,2
+Oxford County,ME,3
+Ozaukee County,WI,4
+Palm Beach County,FL,11
+Panola County,MS,1
+Passaic County,NJ,18
+Paulding County,GA,1
+Pawnee County,OK,1
+Peach County,GA,1
+Pearl River County,MS,2
+Philadelphia County,PA,27
+Pierce County,WA,12
+Pike County,MS,1
+Pima County,AZ,4
+Pinal County,AZ,4
+Pinellas County,FL,2
+Pitkin County,CO,1
+Placer County,CA,3
+Plaquemines Parish,LA,3
+Plymouth County,MA,9
+Polk County,GA,1
+Polk County,IA,4
+Pottawattamie County,IA,1
+Potter County,TX,1
+Prince William County,VA,2
+Pueblo County,CO,1
+Pulaski County,AR,10
+Putnam County,TN,5
+Putnam County,WV,1
+Queens County,NY,848
+Racine County,WI,1
+Ramsey County,MN,1
+Rankin County,MS,4
+Ravalli County,MT,1
+Reno County,KS,1
+Richland County,SC,5
+Richmond City,VA,1
+Richmond County,GA,2
+Richmond County,NY,195
+Riverside County,CA,2
+Roane County,TN,1
+Rock County,WI,2
+Rockdale County,GA,1
+Rockingham County,NH,5
+Rockland County,NY,161
+Rutherford County,TN,4
+Sagadahoc County,ME,1
+Saginaw County,MI,1
+Salt Lake County,UT,14
+San Bernardino County,CA,1
+San Diego County,CA,28
+San Joaquin County,CA,6
+San Luis Obispo County,CA,5
+San Miguel County,CO,1
+Sandoval County,NM,1
+Santa Barbara County,CA,4
+Santa Clara County,CA,39
+Santa Fe County,NM,1
+Sarasota County,FL,4
+Scotland County,NC,1
+Scott County,TN,1
+Sebastian County,AR,1
+Seminole County,FL,1
+Shelby County,AL,6
+Shelby County,TN,36
+Silver Bow County,MT,1
+Simpson County,MS,1
+Siskiyou County,CA,2
+Skagit County,WA,3
+Snohomish County,WA,62
+Solano County,CA,4
+Somerset County,NJ,6
+Sonoma County,CA,2
+Spartanburg County,SC,1
+Spokane County,WA,5
+St. Bernard Parish,LA,7
+St. John the Baptist Parish,LA,3
+St. Johns County,FL,1
+St. Landry Parish,LA,1
+St. Louis County,MN,1
+St. Louis County,MO,10
+St. Mary Parish,LA,1
+St. Tammany Parish,LA,10
+Stark County,OH,2
+Steele County,MN,2
+Story County,IA,1
+Strafford County,NH,1
+Suffolk City,VA,1
+Suffolk County,MA,19
+Suffolk County,NY,291
+Summit County,OH,5
+Summit County,UT,4
+Sumter County,FL,1
+Sumter County,SC,3
+Sussex County,DE,1
+Sussex County,NJ,3
+Tangipahoa Parish,LA,2
+Taos County,NM,1
+Terrebonne Parish,LA,4
+Thurston County,WA,3
+Tift County,GA,1
+Tipton County,TN,1
+Tolland County,CT,1
+Troup County,GA,2
+Tulare County,CA,1
+Tunica County,MS,1
+Tuscaloosa County,AL,2
+Tuscola County,MI,1
+Ulster County,NY,14
+Union County,MS,1
+Union County,NC,3
+Union County,NJ,38
+Utah County,UT,1
+Ventura County,CA,7
+Volusia County,FL,1
+Wabasha County,MN,1
+Wake County,NC,10
+Walton County,FL,1
+Warren County,NJ,2
+Wasatch County,UT,3
+Washington,DC,21
+Washington County,IA,1
+Washington County,MN,1
+Washington County,MS,1
+Washington County,OR,11
+Washington County,PA,2
+Washoe County,NV,3
+Washtenaw County,MI,13
+Waukesha County,WI,5
+Wayne County,MI,133
+Webb County,TX,1
+Weld County,CO,6
+Westchester County,NY,294
+Wexford County,MI,1
+Whatcom County,WA,3
+Will County,IL,2
+Williamson County,TN,12
+Windham County,VT,1
+Windsor County,VT,2
+Winnebago County,IL,2
+Worcester County,MA,5
+Wright County,MN,1
+Wyandotte County,KS,4
+Yakima County,WA,3
+York County,ME,3
+York County,PA,3
+Yuba County,CA,2
+Yuma County,AZ,1
+Acadia Parish,LA,1
+Ada County,ID,2
+Adair County,MO,1
+Adams County,CO,4
+Adams County,PA,1
+Addison County,VT,2
+Alachua County,FL,10
+Alameda County,CA,41
+Albemarle County,VA,1
+Allegan County,MI,1
+Allegheny County,PA,9
+Amherst County,VA,1
+Anderson County,KY,1
+Anne Arundel County,MD,3
+Arapahoe County,CO,5
+Arlington County,VA,4
+Ascension Parish,LA,5
+Ashtabula County,OH,1
+Atlantic County,NJ,1
+Baker County,FL,1
+Baldwin County,AL,1
+Baltimore City,MD,9
+Baltimore County,MD,9
+Barnstable County,MA,13
+Bartholomew County,IN,4
+Beadle County,SD,6
+Beaufort County,SC,1
+Bedford County,VA,1
+Belknap County,NH,1
+Benton County,OR,2
+Bergen County,NJ,94
+Berkeley County,SC,1
+Berks County,PA,6
+Berkshire County,MA,2
+Bernalillo County,NM,2
+Berrien County,MI,1
+Bexar County,TX,2
+Blue Earth County,MN,1
+Bolivar County,MS,1
+Boone County,IN,1
+Boulder County,CO,7
+Bradford County,FL,1
+Brazoria County,TX,8
+Breathitt County,KY,1
+Brevard County,FL,2
+Bristol County,MA,10
+Bronx County,NY,340
+Broome County,NY,1
+Broward County,FL,53
+Brown County,SD,1
+Brunswick County,NC,2
+Bucks County,PA,8
+Burleigh County,ND,1
+Burlington County,NJ,5
+Butler County,KS,1
+Butler County,OH,1
+Butte County,CA,1
+Butts County,GA,2
+Cabarrus County,NC,2
+Caddo Parish,LA,1
+Caledonia County,VT,1
+Calhoun County,AL,1
+Calhoun County,MI,1
+Calvert County,MD,1
+Camden County,MO,1
+Camden County,NJ,7
+Cameron County,TX,5
+Campbell County,TN,1
+Caroline County,MD,1
+Carroll County,GA,2
+Carroll County,MD,1
+Carroll County,NH,1
+Carroll County,OH,1
+Carteret County,NC,2
+Carver County,MN,4
+Cascade County,MT,3
+Cecil County,MD,1
+Cerro Gordo County,IA,2
+Chaffee County,CO,1
+Chambers County,AL,1
+Chambers County,TX,1
+Champaign County,IL,1
+Charles County,MD,1
+Charleston County,SC,4
+Charlevoix County,MI,1
+Charlottesville City,VA,3
+Chattooga County,GA,1
+Cheatham County,TN,2
+Chenango County,NY,1
+Cherokee County,GA,1
+Chester County,PA,4
+Chester County,TN,1
+Chesterfield County,VA,1
+Chickasaw County,MS,1
+Chittenden County,VT,7
+City of St. Louis,MO,3
+Clackamas County,OR,1
+Claiborne Parish,LA,1
+Clallam County,WA,2
+Clark County,AR,1
+Clark County,WA,1
+Clarke County,GA,1
+Clay County,FL,1
+Clay County,MN,1
+Cleburne County,AR,3
+Clermont County,OH,3
+Cleveland County,AR,2
+Cleveland County,OK,1
+Clinch County,GA,1
+Clinton County,NY,2
+Coahoma County,MS,2
+Cobb County,GA,17
+Coconino County,AZ,3
+Coffee County,GA,1
+Cole County,MO,1
+Collier County,FL,5
+Collin County,TX,8
+Columbia County,AR,1
+Columbia County,FL,2
+Columbia County,NY,4
+Columbia County,PA,1
+Columbiana County,OH,2
+Comal County,TX,1
+Contra Costa County,CA,10
+Conway County,AR,1
+Cook County,IL,257
+Copiah County,MS,2
+Cortland County,NY,1
+Coweta County,GA,1
+Cowlitz County,WA,1
+Craighead County,AR,1
+Culpeper County,VA,2
+Cumberland County,ME,12
+Cuyahoga County,OH,33
+Dakota County,MN,4
+Dallas County,IA,1
+Dane County,WI,12
+Darlington County,SC,3
+Dauphin County,PA,1
+Davidson County,TN,24
+Davie County,NC,1
+Davis County,UT,5
+DeKalb County,GA,12
+Delaware County,IN,1
+Delaware County,NY,2
+Delaware County,OH,2
+Delaware County,PA,10
+Denton County,TX,6
+Denver County,CO,28
+Deschutes County,OR,1
+Desha County,AR,1
+DeSoto County,FL,1
+DeSoto County,MS,5
+Dickson County,TN,1
+Dodge County,MN,1
+Dona Ana County,NM,2
+Dougherty County,GA,5
+Douglas County,CO,6
+Douglas County,KS,3
+Douglas County,NE,1
+Dubois County,IN,1
+Dubuque County,IA,2
+DuPage County,IL,14
+Durham County,NC,3
+Dutchess County,NY,33
+Duval County,FL,14
+Eagle County,CO,6
+East Baton Rouge Parish,LA,2
+Eau Claire County,WI,2
+Effingham County,GA,1
+El Dorado County,CA,1
+El Paso County,CO,14
+Ellis County,TX,1
+Emmet County,MI,1
+Erie County,NY,23
+Erie County,PA,1
+Escambia County,FL,3
+Essex County,MA,19
+Essex County,NJ,65
+Essex County,NY,2
+Fairbanks North Star Borough,AK,4
+Fairfax County,VA,9
+Fairfield County,CT,68
+Faulkner County,AR,6
+Fayette County,PA,1
+Fayette County,TN,1
+Flagler County,FL,1
+Floyd County,GA,1
+Floyd County,IN,1
+Fluvanna County,VA,1
+Fond du Lac County,WI,1
+Forrest County,MS,6
+Forsyth County,GA,1
+Forsyth County,NC,4
+Franklin County,AL,1
+Franklin County,IN,2
+Franklin County,OH,13
+Franklin County,TN,1
+Franklin County,WA,1
+Fremont County,WY,1
+Fulton County,GA,12
+Gallatin County,MT,3
+Galveston County,TX,3
+Garfield County,CO,1
+Garland County,AR,3
+Gaston County,NC,2
+Geauga County,OH,1
+Genesee County,MI,7
+Gibson County,TN,1
+Gladwin County,MI,1
+Gloucester County,NJ,2
+Glynn County,GA,2
+Goochland County,VA,1
+Grafton County,NH,2
+Graham County,AZ,1
+Grand Traverse County,MI,1
+Grant County,AR,2
+Grant County,IN,1
+Grant County,WA,7
+Greene County,MO,4
+Greene County,OH,1
+Greene County,TN,1
+Greenville County,SC,2
+Grenada County,MS,1
+Guadalupe County,TX,2
+Guilford County,NC,4
+Gunnison County,CO,4
+Gwinnett County,GA,4
+Hamilton County,IN,8
+Hamilton County,OH,11
+Hamilton County,TN,1
+Hampden County,MA,3
+Hampshire County,MA,2
+Hancock County,IN,1
+Hancock County,OH,1
+Harnett County,NC,1
+Harrison County,IA,2
+Harrison County,MS,5
+Hartford County,CT,19
+Hays County,TX,1
+Henderson County,NC,1
+Hendricks County,IN,2
+Hennepin County,MN,5
+Henrico County,VA,1
+Herkimer County,NY,2
+Highlands County,FL,1
+Hillsborough County,FL,11
+Hillsborough County,NH,4
+Hinds County,MS,6
+Holmes County,MS,3
+Honolulu County,HI,6
+Horry County,SC,2
+Houston County,AL,1
+Houston County,TN,1
+Howard County,IN,1
+Howard County,MD,5
+Hudson County,NJ,29
+Hunterdon County,NJ,2
+Independence County,AR,2
+Indian River County,FL,3
+Iredell County,NC,4
+Island County,WA,2
+Jackson County (including other portions of Kansas City),MO,1
+James City County,VA,12
+Jasper County,SC,1
+Jefferson County,AL,10
+Jefferson County,AR,1
+Jefferson County,CO,8
+Jefferson County,TN,1
+Jefferson County,WA,2
+Jefferson County,WI,1
+Jefferson County,WV,1
+Jefferson Parish,LA,18
+Jessamine County,KY,1
+Jo Daviess County,IL,1
+Johnson County,IA,5
+Johnson County,IN,5
+Johnson County,KS,3
+Kanawha County,WV,2
+Kane County,IL,5
+Kay County,OK,1
+Kenai Peninsula Borough,AK,3
+Kenosha County,WI,5
+Kent County,MI,1
+Kershaw County,SC,1
+Ketchikan Gateway Borough,AK,5
+King County,WA,106
+Kings County,NY,373
+Kitsap County,WA,3
+Knox County,TN,1
+Kossuth County,IA,1
+Lackawanna County,PA,1
+Lafayette County,MS,3
+Lafourche Parish,LA,1
+Lake County,FL,2
+Lake County,IL,6
+Lake County,IN,3
+Lake County,OH,2
+Lamar County,GA,1
+Lancaster County,PA,1
+Lancaster County,SC,2
+Lane County,OR,1
+Laramie County,WY,1
+Larimer County,CO,13
+Lawrence County,MS,1
+Le Sueur County,MN,1
+Lebanon County,PA,1
+Lee County,AL,4
+Lee County,FL,9
+Lee County,GA,2
+Lee County,MS,1
+Lee County,VA,2
+Leflore County,MS,1
+Lehigh County,PA,6
+Leon County,FL,1
+Lincoln County,AR,1
+Lincoln County,MS,3
+Linn County,IA,1
+Litchfield County,CT,1
+Livingston County,IL,1
+Livingston County,MI,2
+Livingston County,NY,1
+Lorain County,OH,5
+Los Angeles County,CA,58
+Loudon County,TN,1
+Loudoun County,VA,1
+Louisa County,VA,1
+Lowndes County,GA,1
+Lucas County,OH,1
+Luzerne County,PA,1
+Macomb County,MI,39
+Madison County,AL,7
+Madison County,ID,1
+Madison County,IL,1
+Madison County,IN,1
+Madison County,KY,1
+Madison County,MS,2
+Madison County,NY,1
+Mahoning County,OH,4
+Maricopa County,AZ,32
+Marion County,FL,1
+Marion County,IN,36
+Marion County,OR,3
+Marion County,TN,1
+Marshall County,MS,1
+Martin County,FL,1
+Martin County,MN,3
+Maui County,HI,2
+Maury County,TN,1
+McHenry County,IL,1
+McKinley County,NM,1
+McLean County,IL,1
+McMinn County,TN,1
+Mecklenburg County,NC,25
+Medina County,OH,1
+Merced County,CA,1
+Mercer County,NJ,10
+Mercer County,PA,1
+Mesa County,CO,1
+Miami County,OH,2
+Miami-Dade County,FL,58
+Middlesex County,MA,22
+Middlesex County,NJ,31
+Midland County,MI,2
+Milwaukee County,WI,56
+Moniteau County,MO,1
+Monmouth County,NJ,66
+Monongalia County,WV,1
+Monroe County,IN,1
+Monroe County,MI,3
+Monroe County,PA,6
+Montgomery County,MD,15
+Montgomery County,MS,1
+Montgomery County,NY,1
+Montgomery County,OH,4
+Montgomery County,PA,16
+Montour County,PA,1
+Morgan County,IN,1
+Morris County,NJ,55
+Mower County,MN,3
+Multnomah County,OR,1
+Municipality of Anchorage,AK,2
+Muskogee County,OK,1
+Napa County,CA,2
+Nassau County,NY,666
+Navajo County,AZ,3
+New Castle County,DE,7
+New Hanover County,NC,2
+New Haven County,CT,5
+New London County,CT,2
+New York County,NY,209
+Niagara County,NY,3
+Nicollet County,MN,1
+Noble County,OK,1
+Norfolk County,MA,6
+Northampton County,PA,4
+Nueces County,TX,1
+Oakland County,MI,48
+Ocean County,NJ,40
+Oconee County,GA,1
+Okaloosa County,FL,2
+Oklahoma County,OK,6
+Oktibbeha County,MS,2
+Oldham County,KY,1
+Olmsted County,MN,2
+Oneida County,NY,3
+Onondaga County,NY,21
+Ontario County,NY,3
+Orange County,CA,17
+Orange County,FL,4
+Orange County,NY,159
+Orange County,TX,1
+Orleans Parish,LA,33
+Osceola County,FL,3
+Ottawa County,MI,4
+Ouachita Parish,LA,2
+Ozaukee County,WI,2
+Palm Beach County,FL,16
+Panola County,MS,1
+Pasco County,FL,3
+Passaic County,NJ,28
+Pawnee County,OK,1
+Payne County,OK,1
+Peach County,GA,1
+Pearl River County,MS,1
+Perry County,MO,1
+Perry County,TN,1
+Philadelphia County,PA,22
+Pierce County,ND,1
+Pierce County,WA,12
+Pike County,MS,1
+Pike County,PA,1
+Pima County,AZ,5
+Pinal County,AZ,2
+Pinellas County,FL,9
+Pitkin County,CO,1
+Pitt County,NC,2
+Plaquemines Parish,LA,1
+Plymouth County,MA,5
+Poinsett County,AR,1
+Polk County,AR,1
+Polk County,FL,1
+Portage County,OH,1
+Potter County,TX,1
+Poweshiek County,IA,1
+Prince George's County,MD,4
+Prince William County,VA,4
+Pulaski County,AR,24
+Putnam County,FL,1
+Putnam County,IN,1
+Putnam County,NY,30
+Putnam County,TN,1
+Queens County,NY,461
+Ramsey County,MN,1
+Rapides Parish,LA,1
+Rensselaer County,NY,18
+Richland County,SC,2
+Richmond County,NY,156
+Ripley County,IN,1
+Riverside County,CA,15
+Robertson County,TN,1
+Rock Island County,IL,1
+Rockingham County,NH,3
+Rockingham County,VA,2
+Rockland County,NY,193
+Roscommon County,MI,1
+Routt County,CO,1
+Rowan County,NC,1
+Rutherford County,TN,3
+Rutland County,VT,3
+Sagadahoc County,ME,2
+Saginaw County,MI,1
+Salem County,NJ,1
+Saline County,AR,2
+Salt Lake County,UT,24
+San Benito County,CA,1
+San Bernardino County,CA,7
+San Diego County,CA,46
+San Francisco County,CA,24
+San Joaquin County,CA,10
+San Juan County,NM,1
+San Juan County,WA,1
+San Luis Obispo County,CA,6
+San Mateo County,CA,7
+Santa Barbara County,CA,5
+Santa Clara County,CA,38
+Santa Fe County,NM,2
+Santa Rosa County,FL,1
+Sarasota County,FL,3
+Saratoga County,NY,17
+Schenectady County,NY,18
+Schuylkill County,PA,1
+Scott County,IA,1
+Scott County,MN,1
+Scott County,MS,1
+Searcy County,AR,1
+Sedgwick County,KS,1
+Seminole County,FL,7
+Shasta County,CA,1
+Shelby County,AL,6
+Shelby County,TN,26
+Sioux County,IA,1
+Skagit County,WA,5
+Snohomish County,WA,33
+Somerset County,MD,1
+Somerset County,NJ,17
+Sonoma County,CA,2
+Spokane County,WA,4
+Spotsylvania County,VA,1
+St. Bernard Parish,LA,1
+St. Charles Parish,LA,1
+St. Clair County,AL,2
+St. Francois County,MO,1
+St. John the Baptist Parish,LA,1
+St. Johns County,FL,7
+St. Joseph County,IN,2
+St. Lawrence County,NY,1
+St. Louis County,MO,1
+St. Lucie County,FL,2
+St. Mary's County,MD,1
+St. Tammany Parish,LA,3
+Stafford County,VA,3
+Stanislaus County,CA,3
+Stark County,OH,2
+Steele County,MN,1
+Stephenson County,IL,1
+Steuben County,NY,3
+Stevens County,WA,1
+Strafford County,NH,2
+Suffolk County,MA,18
+Suffolk County,NY,372
+Sullivan County,NH,1
+Sullivan County,NY,8
+Summit County,OH,8
+Summit County,UT,11
+Sumner County,TN,11
+Sunflower County,MS,2
+Sussex County,DE,4
+Sussex County,NJ,6
+Sutter County,CA,1
+Tallapoosa County,AL,1
+Tama County,IA,3
+Tate County,MS,1
+Tattnall County,GA,1
+Terrebonne Parish,LA,1
+Thurston County,WA,2
+Tippah County,MS,4
+Tipton County,IN,1
+Tipton County,TN,3
+Tolland County,CT,9
+Tompkins County,NY,6
+Tulsa County,OK,1
+Tunica County,MS,1
+Tuscaloosa County,AL,1
+Tuscarawas County,OH,1
+Twiggs County,GA,1
+Union County,AR,1
+Union County,NC,4
+Union County,NJ,43
+Utah County,UT,3
+Valley County,ID,1
+Van Buren County,AR,1
+Ventura County,CA,4
+Vigo County,IN,1
+Virginia Beach City,VA,13
+Volusia County,FL,3
+Wake County,NC,7
+Walla Walla County,WA,1
+Walthall County,MS,1
+Warren County,NJ,4
+Warren County,OH,1
+Wasatch County,UT,1
+Washington,DC,18
+Washington County,AR,4
+Washington County,IA,1
+Washington County,IN,1
+Washington County,MD,1
+Washington County,MN,3
+Washington County,MS,2
+Washington County,OK,1
+Washington County,OR,13
+Washington County,PA,2
+Washington County,VT,1
+Washington County,WI,11
+Washtenaw County,MI,6
+Waukesha County,WI,10
+Wayne County,MI,128
+Wayne County,NY,2
+Wayne County,PA,1
+Webb County,TX,2
+Weld County,CO,16
+Westchester County,NY,488
+Whatcom County,WA,1
+Wichita County,TX,2
+Wilkinson County,MS,2
+Will County,IL,9
+Williamsburg City,VA,1
+Williamson County,TN,1
+Williamson County,TX,1
+Wilson County,NC,1
+Windham County,VT,4
+Windsor County,VT,5
+Winnebago County,IL,1
+Winston County,MS,1
+Wood County,OH,1
+Woodbury County,IA,1
+Woodruff County,AR,1
+Worcester County,MA,13
+Worcester County,MD,1
+Wyandotte County,KS,1
+Yakima County,WA,3
+Yamhill County,OR,2
+Yavapai County,AZ,2
+Yellowstone County,MT,1
+York County,PA,1
+York County,SC,3
+York County,VA,2
+Ada County,ID,2
+Adams County,CO,7
+Adams County,MS,1
+Adams County,PA,1
+Adams County,WA,1
+Alachua County,FL,1
+Alamance County,NC,1
+Alameda County,CA,16
+Albany County,NY,4
+Alexandria City,VA,1
+Allamakee County,IA,1
+Allegheny County,PA,8
+Allen County,IN,2
+Allen Parish,LA,2
+Anderson County,SC,5
+Anne Arundel County,MD,2
+Anoka County,MN,2
+Apache County,AZ,1
+Arapahoe County,CO,13
+Arlington County,VA,8
+Ascension Parish,LA,9
+Ashtabula County,OH,1
+Atlantic County,NJ,1
+Baker County,FL,1
+Baker County,GA,1
+Baltimore City,MD,7
+Baltimore County,MD,7
+Barnstable County,MA,6
+Bartow County,GA,5
+Beadle County,SD,2
+Beaufort County,SC,7
+Beauregard Parish,LA,1
+Belknap County,NH,3
+Bell County,TX,13
+Bergen County,NJ,152
+Berkeley County,SC,2
+Berks County,PA,1
+Berkshire County,MA,3
+Bernalillo County,NM,4
+Berrien County,MI,2
+Bexar County,TX,33
+Bibb County,GA,1
+Big Stone County,MN,1
+Blount County,TN,1
+Blue Earth County,MN,1
+Bolivar County,MS,1
+Boone County,KY,1
+Boone County,MO,7
+Bossier Parish,LA,2
+Boulder County,CO,2
+Bourbon County,KS,1
+Brazoria County,TX,6
+Bristol County,MA,1
+Bronx County,NY,418
+Broome County,NY,4
+Broomfield County and City,CO,1
+Broward County,FL,46
+Bucks County,PA,11
+Burke County,GA,1
+Burleigh County,ND,1
+Burlington County,NJ,14
+Butler County,PA,4
+Butte County,CA,1
+Caddo Parish,LA,18
+Calhoun County,MI,1
+Callaway County,MO,1
+Cambria County,PA,1
+Camden County,NJ,11
+Campbell County,KY,1
+Canyon County,ID,3
+Carbon County,WY,1
+Carroll County,GA,5
+Carroll County,MD,1
+Carroll County,NH,1
+Carroll County,OH,1
+Carteret County,NC,2
+Carver County,MN,1
+Cass County,MN,1
+Castro County,TX,1
+Catoosa County,GA,1
+Cayuga County,NY,2
+Centre County,PA,2
+Charleston County,SC,18
+Charlotte County,FL,1
+Chaves County,NM,3
+Chelan County,WA,3
+Cherokee County,GA,6
+Cherokee County,KS,1
+Chester County,PA,17
+Chester County,SC,1
+Chesterfield County,VA,1
+Citrus County,FL,1
+City of St. Louis,MO,5
+Clackamas County,OR,2
+Claiborne County,TN,1
+Claiborne Parish,LA,1
+Clarendon County,SC,3
+Clark County,AR,4

@@ -1,0 +1,293 @@
+Script started on 2021-06-12 23:24:29-0500
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ ls
+Dictionary.cpp  Dictionary.h  main.cpp  pf202.txt  WordNode.h  words.csv
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ va[K[Kcat words.csv
+Camel,Chameau,Ce chameau est mechant.
+Cat,Chatte,J'ai un chat.
+Dog,Chienne,C'est un chien.
+Stawberry,Fraise,Il mange une fraise.
+Glass,Verre,Voulez-vous aller prendre un verre?
+Flower,Fleur,Deux arbres et une fleur.
+Kite,Cerf-volant,S'il ne pleut pas, nous ferons du cerf-volant sur la plage.
+Death,Mort,Est-il mort dans un accident?
+Painting,Peinture,La peinture qui est dans ton salon est tres belle.
+Fish,Poisson,Tu veux du poisson?
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ g++ *.cpp -o main.exe
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ ./main.exe
+Please enter the name of the CSV file that you would like to link to this program >> words.tt xt
+Sorry, that file was not found in this directory. Please try again >> whoop     words.csv
+words.csv succesfully imported!
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 1
+
+10 entries found.
+-----------------------------------
+English: Camel
+French: Chameau
+Example Sentence: Ce chameau est mechant.
+-----------------------------------
+English: Cat
+French: Chatte
+Example Sentence: J'ai un chat.
+-----------------------------------
+English: Death
+French: Mort
+Example Sentence: Est-il mort dans un accident?
+-----------------------------------
+English: Dog
+French: Chienne
+Example Sentence: C'est un chien.
+-----------------------------------
+English: Fish
+French: Poisson
+Example Sentence: Tu veux du poisson?
+-----------------------------------
+English: Flower
+French: Fleur
+Example Sentence: Deux arbres et une fleur.
+-----------------------------------
+English: Glass
+French: Verre
+Example Sentence: Voulez-vous aller prendre un verre?
+-----------------------------------
+English: Kite
+French: Cerf-volant
+Example Sentence: S'il ne pleut pas, nous ferons du cerf-volant sur la plage.
+-----------------------------------
+English: Painting
+French: Peinture
+Example Sentence: La peinture qui est dans ton salon est tres belle.
+-----------------------------------
+English: Stawberry
+French: Fraise
+Example Sentence: Il mange une fraise.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 2
+Please enter the English word you would like to translate >> Flower
+Flower -----> Fleur
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 1 2
+Please enter the English word you would like to translate >> Rock
+Sorry, that word could not be found in the dictionary. Please try another search query.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 3
+Please enter the French word you would like to see an example sentence for >> Strawberry
+Sorry, that word could not be found in the dictionary. Please try another search query.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 3
+Please enter the French word you would like to see an example sentence for >> Verre
+Verre -----> Voulez-vous aller prendre un verre?
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 4
+Please enter an English word that you would like to add to the dictionary >> Car
+Next, enter the French translation >> Voiture
+Finally, enter the example sentence you would like to use for this word pair >> David ne pas     va pas venir, car                    n'ai pas voiture.
+Car has been added to the Dictionary!
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 1
+
+11 entries found.
+-----------------------------------
+English: Camel
+French: Chameau
+Example Sentence: Ce chameau est mechant.
+-----------------------------------
+English: Car
+French: Voiture
+Example Sentence: David n'ai pas voiture.
+-----------------------------------
+English: Cat
+French: Chatte
+Example Sentence: J'ai un chat.
+-----------------------------------
+English: Death
+French: Mort
+Example Sentence: Est-il mort dans un accident?
+-----------------------------------
+English: Dog
+French: Chienne
+Example Sentence: C'est un chien.
+-----------------------------------
+English: Fish
+French: Poisson
+Example Sentence: Tu veux du poisson?
+-----------------------------------
+English: Flower
+French: Fleur
+Example Sentence: Deux arbres et une fleur.
+-----------------------------------
+English: Glass
+French: Verre
+Example Sentence: Voulez-vous aller prendre un verre?
+-----------------------------------
+English: Kite
+French: Cerf-volant
+Example Sentence: S'il ne pleut pas, nous ferons du cerf-volant sur la plage.
+-----------------------------------
+English: Painting
+French: Peinture
+Example Sentence: La peinture qui est dans ton salon est tres belle.
+-----------------------------------
+English: Stawberry
+French: Fraise
+Example Sentence: Il mange une fraise.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 5
+Please enter the English word that you would like to remove from the dictionary >> Painting
+Painting has been succesfully deleted!
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 1
+
+10 entries found.
+-----------------------------------
+English: Camel
+French: Chameau
+Example Sentence: Ce chameau est mechant.
+-----------------------------------
+English: Car
+French: Voiture
+Example Sentence: David n'ai pas voiture.
+-----------------------------------
+English: Cat
+French: Chatte
+Example Sentence: J'ai un chat.
+-----------------------------------
+English: Death
+French: Mort
+Example Sentence: Est-il mort dans un accident?
+-----------------------------------
+English: Dog
+French: Chienne
+Example Sentence: C'est un chien.
+-----------------------------------
+English: Fish
+French: Poisson
+Example Sentence: Tu veux du poisson?
+-----------------------------------
+English: Flower
+French: Fleur
+Example Sentence: Deux arbres et une fleur.
+-----------------------------------
+English: Glass
+French: Verre
+Example Sentence: Voulez-vous aller prendre un verre?
+-----------------------------------
+English: Kite
+French: Cerf-volant
+Example Sentence: S'il ne pleut pas, nous ferons du cerf-volant sur la plage.
+-----------------------------------
+English: Stawberry
+French: Fraise
+Example Sentence: Il mange une fraise.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 5
+Please enter the English word that you would like to remove from the dictionary >> Romero
+Sorry, that word was not found in the dictionary, so it cannot be deleted.
+-----------------------------------
+     English->French Dictionary
+-----------------------------------
+(1) Print Dictionary
+(2) Search
+(3) Example Sentence
+(4) Add Entry
+(5) Remove Entry 
+(6) Save & Quit
+Please select an option from 1...5 from the ones provided above >> 6
+File saved!
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ ls
+Dictionary.cpp  Dictionary.h  main.cpp  [0m[01;32mmain.exe[0m  pf202.txt  WordNode.h  words.csv
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ cat words.csv
+Camel,Chameau,Ce chameau est mechant.
+Car,Voiture,David n'ai pas voiture.
+Cat,Chatte,J'ai un chat.
+Death,Mort,Est-il mort dans un accident?
+Dog,Chienne,C'est un chien.
+Fish,Poisson,Tu veux du poisson?
+Flower,Fleur,Deux arbres et une fleur.
+Glass,Verre,Voulez-vous aller prendre un verre?
+Kite,Cerf-volant,S'il ne pleut pas, nous ferons du cerf-volant sur la plage.
+Stawberry,Fraise,Il mange une fraise.
+]0;faindori@turing: ~/PF2/Homework/2_LinkedListDictionary[01;32mfaindori@turing[00m:[01;34m~/PF2/Homework/2_LinkedListDictionary[00m$ exit
+exit
+
+Script done on 2021-06-12 23:28:08-0500
